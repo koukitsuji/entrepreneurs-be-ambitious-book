@@ -1,9 +1,12 @@
 PREDEF:
+  - preface.re
 
 CHAPS:
-  - entrepreneurs-be-ambitious-book.re
+  # - entrepreneurs-be-ambitious-book.re
+  - introduction.re
 
 APPENDIX:
 
 POSTDEF:
+  - afterword.re
 
