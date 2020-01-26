@@ -16,7 +16,7 @@ review_version: 4.0
 # inherit: ["A.yml", "B.yml"]
 
 # ブック名(ファイル名になるもの。ASCII範囲の文字を使用)
-bookname: book
+bookname: entrepreneurs-be-ambitious
 # 記述言語。省略した場合はja
 language: ja
 
@@ -93,21 +93,25 @@ debug: null
 
 # 固有IDに使用するドメイン。指定しない場合には、時刻に基づくランダムUUIDが入る
 # urnid: urn:uid:http://example.com/book-title/
+urnid: urn:uid:https://github.com/koukitsuji/entrepreneurs-be-ambitious-book
 #
 # ISBN。省略した場合はurnidが入る
 # isbn: null
 #
 # HTMLファイルの拡張子(省略した場合はhtml)
 # htmlext: html
+htmlext: html
 #
 # CSSファイル(配列で複数指定可)
 stylesheet: ["style.css"]
 
 # ePUBのバージョン (2か3)
 # epubversion: 3
+epubversion: 3
 #
 # HTMLのバージョン (4か5。epubversionを3にしたときには5にする)
 # htmlversion: 5
+htmlversion: 5
 
 # 目次として抽出する見出しレベル
 toclevel: 3
@@ -237,6 +241,7 @@ colophon: true
 
 # EPUBにおけるページ送りの送り方向、page-progression-directionの値("ltr"|"rtl"|"default")
 # direction: "ltr"
+direction: "ltr"
 
 # EPUBのOPFへの固有の追加ルール
 # <package>要素に追加する名前空間
@@ -332,6 +337,7 @@ texstyle: ["reviewmacro"]
 # オプションについてはsty/README.mdを参照
 # デフォルトは印刷用。電子配布版を作るには media=ebook とする
 texdocumentclass: ["review-jsbook", "media=print,paper=b5,line_length=40zw,number_of_lines=36,serial_pagination=true,hiddenfolio=nikko-pc"]
+# texdocumentclass: ["review-jsbook", "media=ebook,paper=b5,line_length=40zw,number_of_lines=36,serial_pagination=true,hiddenfolio=nikko-pc"]
 #
 # LaTeX用のコマンドを指定する
 # texcommand: "uplatex"
