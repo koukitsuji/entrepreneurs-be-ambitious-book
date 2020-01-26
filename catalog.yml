@@ -2,8 +2,10 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  # - entrepreneurs-be-ambitious-book.re
   - introduction.re
+  - africa.re
+  - femtech.re
+  - jpceo.re
 
 APPENDIX:
 
