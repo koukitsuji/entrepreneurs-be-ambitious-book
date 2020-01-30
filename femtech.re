@@ -6,6 +6,12 @@
 \clearpage
 //}
 
+=== 調整用ページ
+
+//embed[latex]{
+\clearpage
+//}
+
 == No.11
 
 //embed[latex]{
