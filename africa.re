@@ -210,7 +210,7 @@ Flareはビジネスとして社会問題を解決する、非常に素晴らし
 
 //footnote[03_fn_ehealth][ehealth news: @<href>{http://ehealthnews.co.za/patients-ambulances-flare/}]
 
-//footnote[03_fn_disrump][Disrupt Africa: @<href>{https://disrupt-africa.com/2016/07/kenyan-startup-to-launch-uber-for-ambulances-app/}]
+//footnote[03_fn_disrump][Disrupt Africa: @<br>{}@<href>{https://disrupt-africa.com/2016/07/kenyan-startup-to-launch-uber-for-ambulances-app/}]
 
 //footnote[03_fn_fastcom][Fast Company: @<href>{https://www.fastcompany.com/company/flare}]
 
