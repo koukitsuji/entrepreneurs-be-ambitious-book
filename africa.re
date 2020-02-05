@@ -348,25 +348,44 @@ Caskyが面白いのは、ドライバーへの金銭的なインセンティブ
 
 このように、Caskyは単なるIoTデバイスにとどまらず、文化や生活習慣の改善により交通事故の撲滅を目指す素晴らしいソリューションです。
 
-
-
-
 //footnote[casky_mwn][Morocco World News: @<href>{https://www.moroccoworldnews.com/2019/12/288698/road-accidents-in-morocco-kill-15-injure-1836-in-one-week/}]
 
 //footnote[casky_osac][Overseas Security Advisory Council: @<href>{https://www.osac.gov/Country/Morocco/Content/Detail/Report/8a147755-bfd1-4255-903c-15f4aec973dc}]
 
 //footnote[casky_jetro][JETRO: https://www.jetro.go.jp/biz/areareports/special/2020/0101/1b2358b91c0c1145.html]
 
-
-
-
-
-
 //embed[latex]{
 \clearpage
 //}
 
-== No.06
+
+#@# No.06
+== AgriProtein「昆虫タンパク質で資源問題を解決」
+
+
+AgriProteinは、
+
+コンセプトは「」@<fn>{ap_vision}。
+
+//footnote[ap_vision][原文 "" を筆者が意訳]
+
+=== ひとことで言うと？
+
+ひとこと
+
+=== ここが熱い！
+
+ *
+ *
+ *
+
+//image[ap_bm][ビジネスモデル]{
+//}
+
+=== 世界の人口増加と食糧危機、資源問題
+
+だよ
+
 
 //embed[latex]{
 \clearpage
