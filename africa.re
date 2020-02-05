@@ -67,7 +67,7 @@ Sanergyは、水の必要ない簡易トイレ「Fresh Life」の設置、マネ
 
 このように、Sanergyは「衛生問題」と「農業問題」の２つの社会問題を、持続可能なビジネスモデルで解決している素晴らしいスタートアップです。
 
-//footnote[sanergy_popul][ケニア統計局2019資料: @<href>{https://www.knbs.or.ke/?wpdmpro=2019-kenya-population-and-housing-census-volume-i-population-by-county-and-sub-county}]
+//footnote[sanergy_popul][ケニア統計局2019資料: https://www.knbs.or.ke/?wpdmpro=2019-kenya-population-and-housing-census-volume-i-population-by-county-and-sub-county]
 
 //footnote[sanergy_rate][国連 世界都市化の見通し2019: @<href>{https://population.un.org/wup/}]
 
@@ -210,7 +210,7 @@ Flareはビジネスとして社会問題を解決する、非常に素晴らし
 
 //footnote[flare_ehealth][ehealth news: @<href>{http://ehealthnews.co.za/patients-ambulances-flare/}]
 
-//footnote[flare_disrump][Disrupt Africa: @<br>{}@<href>{https://disrupt-africa.com/2016/07/kenyan-startup-to-launch-uber-for-ambulances-app/}]
+//footnote[flare_disrump][Disrupt Africa: https://disrupt-africa.com/2016/07/kenyan-startup-to-launch-uber-for-ambulances-app/]
 
 //footnote[flare_fastcom][Fast Company: @<href>{https://www.fastcompany.com/company/flare}]
 
