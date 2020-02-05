@@ -222,7 +222,7 @@ Flareはビジネスとして社会問題を解決する、非常に素晴らし
 #@# No.04
 == Elves「チャット対話型AIコンシェルジュ」
 
-Elvesは、チャットによる対話を通して人々の生活をサポートするアプリを運営するエジプトのスタートアップです。
+Elves (エルヴズ) は、チャットによる対話を通して人々の生活をサポートするアプリを運営するエジプトのスタートアップです。
 GoogleアシスタントやSiriが「完全独立型AIチャットボット」とすると、Elvesは「人間支援型AIチャットボット」です。
 
 コンセプトは「あなたが抱えるやるべきことを、代わりに完了させます」@<fn>{04_fn_vision}。
@@ -288,13 +288,46 @@ Elvesの最も大きな特徴は、システムの裏側に「実在する人間
 #@# //footnote[04_fn_dis][Disrupt Africa: @<br>{}@<href>{https://disrupt-africa.com/2018/01/egypts-elves-targets-millennials-globally-after-seed-funding/}]
 //footnote[04_fn_dis][Disrupt Africa: https://disrupt-africa.com/2018/01/egypts-elves-targets-millennials-globally-after-seed-funding/]
 
-
-
 //embed[latex]{
 \clearpage
 //}
 
-== No.05
+#@# No.5
+== Casky「IoTデバイスでバイク自動車事故を減らす」
+
+Casky (キャスキー) は、IoTデバイスによりバイクの自動車事故を減らそうとしているモロッコのスタートアップです。
+ヘルメットに取り付ける小さなデバイスにより位置情報などの情報からドライバーの状態をトラッキングし、安全を確保するソリューションを提供します。
+ドライバーに対して、安全な運転を行うインセンティブも
+
+コンセプトは「あなたの命を守ることが、我々の情熱です」@<fn>{05_fn_vision}。
+
+//footnote[05_fn_vision][原文 "Your life is our passion" を筆者が意訳]
+
+=== ひとことで言うと？
+
+ユーザーと実在する人間のコンシェルジュを結びつけるチャット型プラットフォームにより、フライトの予約から母の日のギフト選びまで、すべてのTODOを代行するAIアシスタントです。
+
+=== ここが熱い！
+
+ *
+ *
+ *
+
+//image[05_bm][ビジネスモデル]{
+//}
+
+=== エジプトの首都カイロ
+
+
+
+
+
+
+
+
+
+
+
 
 //embed[latex]{
 \clearpage
