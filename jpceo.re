@@ -15,7 +15,7 @@
 
 
 
-
+#@# Np.21
 == Global Mobility Service「Techで貧困層の信用を創出」
 
 Global Mobility Service株式会社 (GMS) は、Mobility×IoT×FinTechのスタートアップです。
@@ -33,12 +33,12 @@ Global Mobility Service株式会社 (GMS) は、Mobility×IoT×FinTechのスタ�
 
  * テクノロジーとビジネスモデルで、貧困層の「信用」を創出！
  * 世界17億人へ「貧困層からの脱却」のチャンスを届ける！
- * GMCサービスを利用したモビリティの総走行距離は、「地球3,060周分」以上！@<fn>{21_fn_web}
- * 社会課題の解決とマネタイズを両立させ、持続的な事業展開を可能にするビジネスモデル！
+ * GMCサービスを利用したモビリティの総走行距離は、「地球3,060周分」以上！@<fn>{fn_gms_web}
+ * 社会課題の解決とﾏﾈﾀｲｽﾞを両立させ、持続的な事業展開を可能にするﾋﾞｼﾞﾈｽﾓﾃﾞﾙ！
 
-//footnote[21_fn_web][GMS公式HPより：@<href>{https://www.global-mobility-service.com/} (2020/01/28現在)]
+//footnote[fn_gms_web][GMS：@<href>{https://www.global-mobility-service.com/}]
 
-//image[21_bm][ビジネスモデル]{
+//image[gms_bm][ビジネスモデル]{
 //}
 
 === ASEAN諸国の社会問題
@@ -52,7 +52,7 @@ Global Mobility Service株式会社 (GMS) は、Mobility×IoT×FinTechのスタ�
 //embed[latex]{
     \begin{wrapfigure}{r}{3cm}
         \centering
-        \includegraphics[scale=0.7]{./images/jpceo/21_mccs.png}
+        \includegraphics[scale=0.7]{./images/jpceo/gms_mccs.png}
         \caption{独自IoTデバイス MCCS\protect\footnotemark{}}
         \label{image:jpceo:21_mccs}
     \end{wrapfigure}
@@ -75,6 +75,7 @@ GMSのビジネスの特徴は、すべての関係者が幸せになる「四�
 車両ディーラーは、車の販売台数が増えます。
 そして社会は、貧困解消により経済的な格差が是正され、車の買い替えにより環境問題も改善します。
 
+このように、GMSは顧客、パートナー、そして自社、すべての関係者を幸せにする素敵な企業です。
 
 
 
