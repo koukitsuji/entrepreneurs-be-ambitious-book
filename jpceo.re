@@ -16,7 +16,7 @@
 
 
 #@# Np.21
-== Global Mobility Service「Techで貧困層の信用を創出」
+== Global Mobility Service「IoTで貧困層の信用を創出」
 
 Global Mobility Service株式会社 (GMS) は、Mobility×IoT×FinTechのスタートアップです。
 テクノロジーとこれまでにない画期的なビジネスモデルで、「貧困」や「環境汚染」の社会問題に切り込みつつ、しっかり稼げる経済合理性を確立しています。
@@ -77,67 +77,68 @@ GMSのビジネスの特徴は、すべての関係者が幸せになる「四�
 
 このように、GMSは顧客、パートナー、そして自社、すべての関係者を幸せにする素敵な　企業です。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //embed[latex]{
 \clearpage
 //}
 
-== ナノエッグ
+#@#
+== ナノエッグ「皮膚×ナノテクで美容の常識を変える」（未）
 
 === 概要
 
 はえ〜すっごい
 
-== Space link
+== Space Link「新素材で次世代の電池をつくる」
 
 //embed[latex]{
 \clearpage
 //}
 
-== No.24
+#@# No.24
+== プランテックス「クローズド型室内培養器で食料問題に挑む」（未）
 
 //embed[latex]{
 \clearpage
 //}
 
-== No.25
+#@# No.25
+== Safe「監視カメラプラットフォームで安全を創造」（未）
 
 //embed[latex]{
 \clearpage
 //}
 
-== No.26
+#@# No.26
+== エレファンテックス「インクジェット基板印刷」（未）
 
 //embed[latex]{
 \clearpage
 //}
 
-== No.27
+#@# No.27
+== FiNC「仕組みで健康を」（未）
+
+これもしかしたら、Femtechに入れても良いかもな。
 
 //embed[latex]{
 \clearpage
 //}
 
-== No.28
+#@# No.28
+== セブンドリーマーズ「今はなき全自動洗濯物たたみ機」（未）
+
+倒産した会社を入れるのはちょっと違うかなあ…
+でもめっちゃ好きだから入れたいんだよなこれ
+どっかに買われて再生しないかしら、それもちょっと調べてみよ
 
 //embed[latex]{
 \clearpage
 //}
 
-== No.29
+#@# No.29
+== MAMORIO「IoTで落とし物をなくす」
+
+これはちょっとスモールビジネスすぎて違うかなあ
 
 //embed[latex]{
 \clearpage

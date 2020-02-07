@@ -362,7 +362,6 @@ Caskyが面白いのは、ドライバーへの金銭的なインセンティブ
 #@# No.06
 == AgriProtein「昆虫タンパク質で資源問題を解決」
 
-
 AgriProteinは、
 
 コンセプトは「」@<fn>{ap_vision}。
@@ -391,25 +390,33 @@ AgriProteinは、
 \clearpage
 //}
 
-== No.07
+
+
+
+
+== Swvl「バスのライドシェアによる交通インフラ」（未）
+]エジプトのバスライドシェア
 
 //embed[latex]{
 \clearpage
 //}
 
-== No.08
+#@# No.08
+== farmcrowdy「農家のクラウドファンディング」（未）
 
 //embed[latex]{
 \clearpage
 //}
 
-== No.09
+#@# No.09
+== Kitovu「ビッグデータによる農家向けコンサル」（未）
 
 //embed[latex]{
 \clearpage
 //}
 
-== No.10
+#@# No.10
+== Qelasy「電気の無い地域でデジタル教育」（未）
 
 //embed[latex]{
 \clearpage

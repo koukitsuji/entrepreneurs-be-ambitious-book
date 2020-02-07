@@ -12,7 +12,8 @@
 \clearpage
 //}
 
-== No.11
+#@# No.11
+== Babymigo「母親向けSNS」（未）
 
 //embed[latex]{
 \clearpage
