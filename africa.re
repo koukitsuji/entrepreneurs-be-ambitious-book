@@ -552,16 +552,39 @@ SWVL自体はバスを保有していないため、SWVLはパートナーの民
 
 //footnote[swvl_techism][Tech-ism: https://tech-ish.com/2019/07/12/swvl-bus-my-experience-kenya/]
 
-
-
-
-
 //embed[latex]{
 \clearpage
 //}
 
 #@# No.08
-== farmcrowdy「農家のクラウドファンディング」（未）
+== Farmcrowdy「農家のクラウドファンディング」
+
+Farmcrowdyは、農家と出資者を結びつけるクラウドファンディングサービスを運営するナイジェリアのスタートアップです。
+
+コンセプトは「」@<fn>{fc_vision}。
+
+//footnote[fc_vision][原文 "" を筆者が意訳]
+
+=== ひとことで言うと？
+
+クラファン
+
+=== ここが熱い！
+
+ *
+ *
+ *
+
+//image[fc_bm][ビジネスモデル]{
+//}
+
+=== ナイジェリア
+
+
+
+
+
+
 
 //embed[latex]{
 \clearpage
