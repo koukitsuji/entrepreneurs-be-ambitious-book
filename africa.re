@@ -280,7 +280,7 @@ Elvesの最も大きな特徴は、システムの裏側に「実在する人間
 
 #@# FIXME: for pdf
 #@# //footnote[04_cairo][Business news: @<br>{}@<href>{https://libn.com/2020/01/06/cantor-egypt-and-its-people-an-ancient-land-facing-change/}]
-//footnote[elves_cairo][Business news: https://libn.com/2020/01/06/cantor-egypt-and-its/-people-an-ancient-land-facing-change/]
+//footnote[elves_cairo][Business news: https://libn.com/2020/01/06/cantor-egypt-and-its-people-an-ancient-land-facing-change/]
 
 //footnote[elves_ent][Entreprener.com: @<href>{https://www.entrepreneur.com/article/308522}]
 
@@ -493,33 +493,46 @@ SolarPackは、ソーラーパネルと充電機能が搭載されたリュッ�
 #@# No.7
 == SWVL「バスのライドシェアによる交通インフラ」
 
-SWVL（スエフル）は、エジプト
+SWVL（スエフル）は、ライドシェア型のマッチングアプリを運営するエジプトのスタートアップです。
+一見するとバス版のUberのようですが、さらに公共交通機関としての利便性を高めたサービスです。
+現地の需要を掴み、2017年4月の創業から急速に成長し事業を拡大しています。
 
-ビジョンは「」@<fn>{swvl_vision}。
+コンセプトは「エジプトの公共交通機関を再発明します」@<fn>{swvl_vision}。
 
-//footnote[swvl_vision][原文 "" を筆者が意訳]
+//footnote[swvl_vision][原文 "Re-inventing Public Transportation in Egypt" を筆者が意訳]
 
 === ひとことで言うと？
 
-ソ
+固定ルート・固定料金でのバス予約アプリにより、都市インフラとして公共交通を支えています。
 
 === ここが熱い！
 
- *
- *
- *
+ * 毎月100万人以上のアクティブユーザーが数十万件の予約！
+ * ユーザーのニーズに合わせてルートを常に最適化！
+ * 創業から約2年で4,2000万米ドルのシリーズC資金調達をおこなう成長速度！
 
 //image[swvl_bm][ビジネスモデル]{
 //}
 
 === エジプト
 
+Elvesでも言及しましたが、エジプトの首都カイロは過度な人口密集により多くの社会問題を抱えています。
+特に交通の問題は深刻で、その混雑具合や無秩序さから「1日中ラッシュアワーが続く」とも揶揄されています@<fn>{swvl_cairo}。
+また、混雑に加え公共交通機関の信頼性の低さも問題です。
+都市バスはアラビア数字のみの記載しかなく、時刻表にはどこからもアクセスでないため、適切なバスに乗ることが非常に困難です。
+個人所有のマイクロバスは固定のルートが無いため、常にドライバーに目的地を確認する必要があります。
+タクシーのドライバーはよく嘘を付くため、常に注意を怠ってはいけません@<fn>{swvl_trans}。
+
+このような問題を解決するのがSWVLのサービスです。
+
+=== バスのライドシェア
 
 
 
 
+//footnote[swvl_cairo][Business news: https://libn.com/2020/01/06/cantor-egypt-and-its-people-an-ancient-land-facing-change/]
 
-
+//footnote[swvl_trans][The Vegan Travelers: https://www.the-vegan-travelers.com/en/africa/egypt/getting-around-in-egypt.html]
 
 
 
