@@ -615,24 +615,45 @@ FCのサービスにより、11.5万人の支援者が2.5万人の農家を支�
 
 #@# 個人農家とは直接パートナーとならず、地域の農業協会などを通して最適な農家を選出します。
 
-
-
 //footnote[fc_pulse][Pulse: https://www.pulse.ng/news/local/nigerians-among-worlds-hungriest-people-in-2018-un-report-says/hz62ts4]
 
 //footnote[fc_fao][国連FAO: http://www.fao.org/nigeria/fao-in-nigeria/nigeria-at-a-glance/en/]
 
 //footnote[fc_official][Farmcrowdy: https://www.farmcrowdy.com/]
 
-
-
-
-
 //embed[latex]{
 \clearpage
 //}
 
 #@# No.09
-== Kitovu「ビッグデータによる農家向けコンサル」（未）
+== HelloTractor「トラクター版Uberで農業の機械化」
+
+HelloTractor (以下, HT) は、
+
+ミッションは「」@<fn>{ht_vision}。
+
+//footnote[ht_vision][原文 "" を筆者が意訳]
+
+=== ひとことで言うと？
+
+トラクター
+
+=== ここが熱い！
+
+ *
+ *
+ *
+
+//image[ht_bm][ビジネスモデル]{
+//}
+
+=== アフリカの農業
+
+やばい
+
+
+
+
 
 //embed[latex]{
 \clearpage
