@@ -142,7 +142,44 @@ CFは世界40ヶ国の2,700を超えるクリニックとネットワークを�
 \clearpage
 //}
 
-== No.13
+#@# No.13
+== Elvie「搾乳・産後ケアのウェアラブルデバイス」
+
+Elvieは、
+
+ミッションは「スマートテクノロジーにより女性の人生を改善します」@<fn>{elvie_vision}。
+
+=== 一言でいうと？
+
+ひとこと
+
+=== ここが熱い！
+
+ *
+ *
+ *
+
+//footnote[elvie_vision][原文 "Our mission is to improve women's lives through smarter technology." を筆者が意訳]
+
+//image[elvie_bm][ビジネスモデル]{
+//}
+
+=== 問題
+
+問題
+
+=== すごい
+
+すごい
+
+@<fn>{elvie_}
+
+//footnote[elvie_][◆◆: @<href>{https://tmp.com}]
+
+
+
+
+
 
 //embed[latex]{
 \clearpage
