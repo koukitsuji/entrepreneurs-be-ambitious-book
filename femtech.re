@@ -77,15 +77,47 @@ Liviaは文字通り、テクノロジーで女性の人生を変えるプロダ
 
 //footnote[livia_review][Best Buy: https://blog.bestbuy.ca/home-furniture-kitchen/personal-care-home-furniture-kitchen/livia-menstrual-pain-relief-device-review]
 
-
-
-
-
 //embed[latex]{
 \clearpage
 //}
 
-== No.12
+#@# No.12
+== Carrot Fertility「福利厚生向け妊活プラットフォーム」
+
+Carrot Fertility (以下、CF) は、
+
+ビジョンは「」@<fn>{cf_vision}。
+
+=== 一言でいうと？
+
+ひとこと
+
+=== ここが熱い！
+
+ *
+ *
+ *
+
+
+//footnote[cf_vision][原文 "" を筆者が意訳]
+
+
+//image[cf_bm][ビジネスモデル]{
+//}
+
+=== 問題
+
+問題
+
+=== すごい
+
+すごい
+
+@<fn>{◆◆}
+
+//footnote[◆◆][◆◆: @<href>{https://tmp.com}]
+
+
 
 //embed[latex]{
 \clearpage
