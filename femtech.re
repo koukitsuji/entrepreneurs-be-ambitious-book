@@ -84,23 +84,22 @@ Liviaは文字通り、テクノロジーで女性の人生を変えるプロダ
 #@# No.12
 == Carrot Fertility「福利厚生向け妊活プラットフォーム」
 
-Carrot Fertility (以下、CF) は、
+Carrot Fertility (以下、CF) は、企業の福利厚生として妊活を受けることができるようにするオンラインプラットフォームを運営するアメリカのスタートアップです。
+専門家によるコンサルから、医療機関へのマッチングなどの様々な包括的なサービスを提供します。
 
-ビジョンは「」@<fn>{cf_vision}。
+ビジョンは「高品質の不妊治療を誰もが利用できるようにします」@<fn>{cf_vision}。
 
 === 一言でいうと？
 
-ひとこと
+不妊治療から養子縁組など、LGBTQ+を含めた誰もが子を持てるようにするサービスを、契約した企業の福利厚生として従業員へ提供します。
 
 === ここが熱い！
 
- *
- *
- *
+ * 多様化する性やライフスタイルに柔軟に対応するサポート体制！
+ * 会社支払のデビットカードで授業員は自己負担なくサービスにアクセス！
+ * 2016年の創業以来、40ヶ国で数万人へサービスを提供！
 
-
-//footnote[cf_vision][原文 "" を筆者が意訳]
-
+//footnote[cf_vision][原文 "a singular purpose: to make high-quality fertility care accessible to everyone" を筆者が意訳]
 
 //image[cf_bm][ビジネスモデル]{
 //}
@@ -113,9 +112,9 @@ Carrot Fertility (以下、CF) は、
 
 すごい
 
-@<fn>{◆◆}
+@<fn>{cf_}
 
-//footnote[◆◆][◆◆: @<href>{https://tmp.com}]
+//footnote[cf_][◆◆: @<href>{https://tmp.com}]
 
 
 
@@ -193,9 +192,7 @@ Carrot Fertility (以下、CF) は、
  *
  *
 
-
 //footnote[◆◆_vision][原文 "" を筆者が意訳]
-
 
 #@#//image[◆◆_bm][ビジネスモデル]{
 #@#//}
