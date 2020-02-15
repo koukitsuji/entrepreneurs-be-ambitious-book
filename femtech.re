@@ -331,7 +331,42 @@ Bloomlifeは世界の悲劇を減らしうる可能性のあるプロダクト�
 \clearpage
 //}
 
-== No.16
+
+#@# == No.16
+== Lora Dicarlo「女性が作る女性のためのセックストイ」
+
+Lora Dicarlo (ローラ・ディカロル) は、女性主体のエンジニアチームが女性のためのセックストイを開発・販売しているアメリカのスタートアップです。
+非常に話題性の大きな企業で、FemtechやSextechの枠を超えて世界へ大きな影響を与えています。
+高い技術力に裏打ちされたプロダクトも非常に魅力的で、広くユーザーに支持されています。
+
+ミッションは「全ての性のありかたと性的関心が、革新的で思慮深いツールにより喜びへ至ることのできる、性的に公平な世界を創造すること」@<fn>{ld_vision}。
+
+=== 一言でいうと？
+
+人間の動きを再現する生体模倣技術とロボット技術とにより、クリトリスやGスポットを刺激する高精度なセックストイを開発しています。
+
+=== ここが熱い！
+
+ * CES2019で受賞した後に「セックストイは不適切」と剥奪されたことで大きな議論へ！
+ * 話題性だけでなく、技術力に裏打ちされたプロダクトの完成度！
+ * ローンチから36時間で150万ドル (1ドル100円で約1億5,000万円) の売上！
+
+//footnote[ld_vision][原文 "To create a sexually equitable world where all genders and sexualities are met with innovative and thoughtful tools to serve on their path to pleasure." を筆者が意訳]
+
+//image[ld_bm][ビジネスモデル]{
+//}
+
+=== 問題
+
+問題
+
+=== すごい
+
+すごい
+
+@<fn>{ld_}
+
+//footnote[ld_][◆◆: @<href>{https://tmp.com}]
 
 //embed[latex]{
 \clearpage
