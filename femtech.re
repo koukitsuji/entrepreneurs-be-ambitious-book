@@ -512,12 +512,11 @@ Maven Clinic（メイヴン・クリニック）は、インターネットを�
 メイヴンを導入した企業では、出産にともなう離職率が10%まで下がるという実績を出しています。
 現在は2児の母である創業者は、さらに女性やその家族のニーズにマッチしたビジネスを展開するでしょう。
 キャリアの継続を望む母親が、出産を理由に断念する必要がなくなる世界は本当に素晴らしいと思います。
-日本ではあまり馴染みのないサービスですが今後広まっていくことを期待します。
+日本ではあまり馴染みのないサービスですが　今後広まっていくことを期待します。
 
 //footnote[mc_jp][厚生労働省: @<href>{http://wwwa.cao.go.jp/wlb/government/top/hyouka/k_45/pdf/s1.pdf}]
 
 //footnote[mc_forbes][Forbes: @<href>{https://www.forbes.com/sites/thestoryexchange/2018/12/04/this-founder-raised-42m-to-start-a-digital-health-app-for-women/#13791676d461}]
-
 
 //embed[latex]{
 \clearpage
