@@ -394,7 +394,39 @@ LDへは応援のメッセージが数万件届いたといいます。
 \clearpage
 //}
 
-== No.17
+#@# No.17
+== Kegg「」
+
+keggは、
+
+ビジョンは「」@<fn>{kegg_vision}。
+
+=== 一言でいうと？
+
+ひとこと
+
+=== ここが熱い！
+
+ *
+ *
+ *
+
+//footnote[kegg_vision][原文 "" を筆者が意訳]
+
+//image[kegg_bm][ビジネスモデル]{
+//}
+
+=== 問題
+
+問題
+
+=== すごい
+
+すごい
+
+@<fn>{kegg_}
+
+//footnote[kegg_][◆◆: @<href>{https://tmp.com}]
 
 //embed[latex]{
 \clearpage
