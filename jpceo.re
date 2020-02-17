@@ -12,13 +12,10 @@
 \clearpage
 //}
 
-
-
-
-#@# Np.21
+#@# Np.20
 == Global Mobility Service「IoTで貧困層の信用を創出」
 
-Global Mobility Service株式会社 (GMS) は、Mobility×IoT×FinTechのスタートアップです。
+Global Mobility Service (GMS) は、Mobility×IoT×FinTechのスタートアップです。
 テクノロジーとこれまでにない画期的なビジネスモデルで、「貧困」や「環境汚染」の社会問題に切り込みつつ、しっかり稼げる経済合理性を確立しています。
 
 顧客、パートナー、そして自社、すべての関係者を幸せにする熱い企業です！
@@ -33,10 +30,10 @@ Global Mobility Service株式会社 (GMS) は、Mobility×IoT×FinTechのスタ�
 
  * テクノロジーとビジネスモデルで、貧困層の「信用」を創出！
  * 世界17億人へ「貧困層からの脱却」のチャンスを届ける！
- * GMCサービスを利用したモビリティの総走行距離は、「地球3,060周分」以上！@<fn>{fn_gms_web}
+ * GMCサービスを利用したモビリティの総走行距離は、「地球3,060周分」以上！@<fn>{gms_web}
  * 社会課題の解決とﾏﾈﾀｲｽﾞを両立させ、持続的な事業展開を可能にするﾋﾞｼﾞﾈｽﾓﾃﾞﾙ！
 
-//footnote[fn_gms_web][GMS：@<href>{https://www.global-mobility-service.com/}]
+//footnote[gms_web][GMS：@<href>{https://www.global-mobility-service.com/}]
 
 //image[gms_bm][ビジネスモデル]{
 //}
@@ -49,15 +46,15 @@ Global Mobility Service株式会社 (GMS) は、Mobility×IoT×FinTechのスタ�
 
 === 2つの独自コア技術 MCCS と MSPF
 
-//embed[latex]{
-    \begin{wrapfigure}{r}{3cm}
-        \centering
-        \includegraphics[scale=0.7]{./images/jpceo/gms_mccs.png}
-        \caption{独自IoTデバイス MCCS\protect\footnotemark{}}
-        \label{image:jpceo:21_mccs}
-    \end{wrapfigure}
-    \footnotetext[2]{出典：\url{https://www.global-mobility-service.com/}}
-//}
+#@# //embed[latex]{
+#@#     \begin{wrapfigure}{r}{3cm}
+#@#         \centering
+#@#         \includegraphics[scale=0.7]{./images/jpceo/gms_mccs.png}
+#@#         \caption{独自IoTデバイス MCCS\protect\footnotemark{}}
+#@#         \label{image:jpceo:21_mccs}
+#@#     \end{wrapfigure}
+#@#     \footnotetext[2]{出典：\url{https://www.global-mobility-service.com/}}
+#@# //}
 #@# FIXME: fnの番号を編集
 
 「MCCS」は車両に取り付けるIoTデバイスで、車両のあらゆるデータを取得し、クラウドプラットフォームである「MSPF」へ24時間リアルタイムで送信します。
@@ -75,18 +72,50 @@ GMSのビジネスの特徴は、すべての関係者が幸せになる「四�
 車両ディーラーは、車の販売台数が増えます。
 そして社会は、貧困解消により経済的な格差が是正され、車の買い替えにより環境問題も改善します。
 
-このように、GMSは顧客、パートナー、そして自社、すべての関係者を幸せにする素敵な　企業です。
+このように、GMSは顧客、パートナー、そして自社、すべての関係者を幸せにする素敵な企業です。
 
 //embed[latex]{
 \clearpage
 //}
 
-#@#
-== ナノエッグ「皮膚×ナノテクで美容の常識を変える」（未）
+#@# No.21
+== ナノエッグ「皮膚×ナノテクで美容の常識を変える」
 
 === 概要
 
-はえ〜すっごい
+ナノエッグは、@<fn>{ne_}
+
+ビジョンは「」。
+
+=== 一言でいうと？
+
+ひとこと
+
+=== ここが熱い！
+
+ *
+ *
+ *
+
+//footnote[ne_][◆◆：@<href>{https://www.example.com/}]
+
+//image[ne_bm][ビジネスモデル]{
+//}
+
+=== 問題
+
+問題
+
+
+
+
+
+
+
+
+//embed[latex]{
+\clearpage
+//}
 
 == Space Link「新素材で次世代の電池をつくる」
 
@@ -136,7 +165,8 @@ GMSのビジネスの特徴は、すべての関係者が幸せになる「四�
 //}
 
 #@# No.29
-== MAMORIO「IoTで落とし物をなくす」
+#@#== MAMORIO「IoTで落とし物をなくす」
+== VACAN「空席がわかるサービス」
 
 これはちょっとスモールビジネスすぎて違うかなあ
 
@@ -144,7 +174,33 @@ GMSのビジネスの特徴は、すべての関係者が幸せになる「四�
 \clearpage
 //}
 
-== No.30
+#@# == No.30
+== A.L.I.Technologies「空を飛ぶバイク」
+
+◆◆は、
+
+ビジョンは「」。
+
+=== 一言でいうと？
+
+ひとこと
+
+=== ここが熱い！
+
+ *
+ *
+ *
+
+ @<fn>{◆◆}
+
+//footnote[◆◆][◆◆：@<href>{https://www.example.com/}]
+
+#@# //image[◆◆_bm][ビジネスモデル]{
+#@# //}
+
+=== 問題
+
+問題
 
 //embed[latex]{
 \clearpage
