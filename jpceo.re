@@ -119,7 +119,39 @@ GMSのビジネスの特徴は、すべての関係者が幸せになる「四�
 \clearpage
 //}
 
-== Space Link「新素材で次世代の電池をつくる」
+#@# No.22
+== スペースリンク「新素材で次世代の電池をつくる」
+
+=== 概要
+
+スペースリンク@<fn>{sl_official}は、
+
+ビジョンは「」。
+
+=== 一言でいうと？
+
+ひとこと
+
+=== ここが熱い！
+
+ *
+ *
+ *
+
+//footnote[sl_official][スペースリンク：@<href>{https://www.spacelinkltd.jp/}]
+
+//image[sl_bm][ビジネスモデル]{
+//}
+
+=== 問題
+
+問題
+
+
+
+
+
+
 
 //embed[latex]{
 \clearpage
