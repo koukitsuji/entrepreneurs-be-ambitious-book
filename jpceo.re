@@ -270,24 +270,35 @@ CNTはその名の通り、炭素原子が網目のように結びついてナ�
 
 //footnote[pt_wired][WIRED：@<href>{https://wired.jp/2019/12/12/vol35-plantx/}]
 
-#@# FAOの最新のシナリオ
-#@# このままだと約50%の食料増加となる P97 BAUは2050年に50%
-#@# P141に50%の拡大は必要ない
-#@# http://www.fao.org/3/I8429EN/i8429en.pdf
+//embed[latex]{
+\clearpage
+//}
 
+#@# No.29
+== VACAN「空席状況がひと目でわかるサービス」
 
-#@# 世界政府サミット2018 2050年までに食料70%増
-#@# https://www.oliverwyman.com/content/dam/oliver-wyman/v2/publications/2018/February/Oliver-Wyman-Agriculture-4.0.pdf
+Vacan (バカン) @<fn>{vacan_official}は、
 
-#@# 2020/2 水や食料などの記事
-#@# http://www.futuredirections.org.au/publication/global-food-and-water-security-in-2050-demographic-change-and-increased-demand/
+ビジョンは「いま空いているか1秒でわかる、優しい世界」。
 
+=== 一言でいうと？
 
+ひとこと
 
+=== ここが熱い！
 
+ *
+ *
+ *
 
+//footnote[vacan_official][Vacan：@<href>{https://www.example.com/}]
 
+//image[vacan_bm][ビジネスモデル]{
+//}
 
+=== 問題
+
+問題
 
 
 
@@ -331,15 +342,6 @@ CNTはその名の通り、炭素原子が網目のように結びついてナ�
 \clearpage
 //}
 
-#@# No.29
-#@#== MAMORIO「IoTで落とし物をなくす」
-== VACAN「空席がわかるサービス」
-
-これはちょっとスモールビジネスすぎて違うかなあ
-
-//embed[latex]{
-\clearpage
-//}
 
 #@# == No.30
 == A.L.I.Technologies「空を飛ぶバイク」
