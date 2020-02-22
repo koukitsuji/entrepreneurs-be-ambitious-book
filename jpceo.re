@@ -334,7 +334,38 @@ VACANは最終的に、メディアに変わることを戦略としています
 //}
 
 #@# No.25
-== Safe「監視カメラプラットフォームで安全を創造」（未）
+== セーフィー「監視カメラのクラウドプラットフォーム」
+
+セーフィーは
+
+ビジョンは「映像から未来をつくる」。
+
+=== 一言でいうと？
+
+ひとこと
+
+=== ここが熱い！
+
+ *
+ *
+ *
+
+ @<fn>{safe_official}
+
+
+
+//image[safie_bm][ビジネスモデル]{
+//}
+
+=== 問題
+
+問題
+
+
+
+
+
+//footnote[safe_official][セーフィー：@<href>{https://safie.link/}]
 
 //embed[latex]{
 \clearpage
@@ -371,7 +402,7 @@ VACANは最終的に、メディアに変わることを戦略としています
 #@# == No.30
 == A.L.I.Technologies「空を飛ぶバイク」
 
-◆◆は、
+◆◆ @<fn>{◆◆_official}は、
 
 ビジョンは「」。
 
@@ -385,16 +416,14 @@ VACANは最終的に、メディアに変わることを戦略としています
  *
  *
 
- @<fn>{◆◆}
-
-//footnote[◆◆][◆◆：@<href>{https://www.example.com/}]
-
 #@# //image[◆◆_bm][ビジネスモデル]{
 #@# //}
 
 === 問題
 
 問題
+
+//footnote[◆◆_official][◆◆：@<href>{◆◆}]
 
 //embed[latex]{
 \clearpage
