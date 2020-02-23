@@ -450,22 +450,47 @@ GoogleやFacebookなどはネット上の情報をおさえることで覇権を
 環境に関する世界のトレンドに配慮しているのも素晴らしい点ですね。
 現在水やエネルギーを大量消費している製造業において、この視点は今後必須となるでしょう。
 
-
 //footnote[et_official][エレファンテック：@<href>{https://www.elephantech.co.jp/}]
 
 //footnote[et_ok][OK Print：@<href>{http://www.okp.jp/contents/technology/process.html}]
 
 //footnote[et_impc][エレファンテック IMPC：@<href>{https://www.elephantech.co.jp/pickups/in-mold-printed-circuit-video-202002/}]
 
-
 //embed[latex]{
 \clearpage
 //}
 
 #@# No.27
-== FiNC「仕組みで健康を」（未）
+== FiNC「AIトレーナーと仕組みで健康改善」
 
-これもしかしたら、Femtechに入れても良いかもな。
+FiNC @<fn>{finc_official}は、主に女性向けのヘルスケア系スマホアプリを運営するスタートアップです。
+AIによる最適なトレーニングメニューの提示から、体重や睡眠時間などの健康状態の管理まで、ヘルスケア関連の機能を包括的に提供しています。
+国内のヘルスケア/フィットネス系アプリのダウンロード数No.1の実績があります。
+
+ビジョンは「カラダのすべてを、ひとつのアプリで」。
+
+=== 一言でいうと？
+
+AIによる自分に最適な美容・フィットネスメニューや、睡眠時間や生理周期管理など、自分の健康に関する情報がワンストップで管理できるアプリを運営しています。
+
+=== ここが熱い！
+
+ * ヘルスケアを起点に、ユーザーに金銭的なインセンティブを与える経済圏を構築！
+ * 60件を超える特許取得で参入障壁！
+ * 創業者は元ヘルスケア系トレーナーのプロ！
+
+//image[finc_bm][ビジネスモデル]{
+//}
+
+=== 問題
+
+問題
+
+//footnote[finc_official][FiCN：@<href>{https://finc.com/}]
+
+
+
+
 
 //embed[latex]{
 \clearpage
