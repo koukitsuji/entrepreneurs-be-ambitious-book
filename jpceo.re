@@ -541,25 +541,29 @@ A.L.I. Technologiesは@<fn>{ali_official}は、ドローンや分散コンピュ
 //image[ali_bm][ビジネスモデル]{
 //}
 
-===
+=== エアーモビリティ
 
-問題
-
-エアーモビリティ事業
-エッジコンピューティングパワープール事業
-
-Speeder
-地上数十センチを浮遊し走行する一人乗りモビリティ
-
-GPUマシンのコンピューティングリソース
+ALIは、ドローンを大型化しバイクのような形状にしたプロダクトを開発しています。
+モビリティの新しい形として、地上や水上から数十センチ浮遊して低空飛行エアーモビリティは、ALIの他にも、アメリカのAerofexやロシアのHoversurfが開発中です。
+ALIのバイクは、地上30cm程度浮遊し、最高速度は120km/hで走行可能です@<fn>{ali_yto}。
+人間が搭乗した状態での一般公開は済ませており@<fn>{ali_yt}、2020年ごろには海外で限定的な発売を予定しています。
+日本では、2022年に公道ナンバーを取得し量産化を目指しています@<fn>{ali_pj}。
+日本の公道でホバーバイクに乗るためには制度の整備が必要で、経済産業省と国土交通省が「空の移動革命に向けた官民協議会」を設立し議論を進めています@<fn>{ali_me}。
+この組織の提示するロードマップによると、2023年を目標に空飛ぶクルマ関連の事業をスタートし、2030年代から実用の拡大を行う予定です。
+国の方針として、ホバーバイクの導入に積極的なのは素晴らしい。
+この計画通りに、我々の日常にエアーモビリティが存在する未来が来てほしいですね。
 
 //footnote[ali_official][A.L.I. Technologies：@<href>{https://ali.jp/}]
 
+//footnote[ali_yto][Youtube A.L.I. Technologies：@<href>{https://www.youtube.com/watch?v=copFXkbprC8&feature=emb_title}]
 
+//footnote[ali_yt][Youtube：@<href>{https://www.youtube.com/watch?v=MrUIJ8RerW0}]
 
+//footnote[ali_pj][事業構想：@<href>{https://www.projectdesign.jp/201902/mobility-revolution/005957.php}]
 
+//footnote[ali_me][経済産業省 空の移動革命に向けた官民協議会：@<href>{https://www.meti.go.jp/shingikai/mono_info_service/air_mobility/index.html}]
 
-
+//footnote[ali_me][空の移動革命に向けた官民協議会 ロードマップ：@<href>{https://www.meti.go.jp/shingikai/mono_info_service/air_mobility/pdf/004_01_00.pdf}]
 
 //embed[latex]{
 \clearpage
