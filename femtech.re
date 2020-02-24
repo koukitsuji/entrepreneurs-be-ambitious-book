@@ -176,7 +176,7 @@ CFは世界40ヶ国の2,700を超えるクリニックとネットワークを�
 #@# No.13
 == Elvie「搾乳・産後ケアのウェアラブルデバイス」
 
-Elvieは、搾乳機や産後ケアグッズにテクノロジーを導入するイギリスのスタートアップです。
+Elvie@<fn>{elvie_official}は、搾乳機や産後ケアグッズにテクノロジーを導入するイギリスのスタートアップです。
 今までにないスマートなデザインや、スマホアプリと連帯して効果を見える化するなど、女性の生活の質を向上させる工夫が凝らされています。
 
 ミッションは「スマートテクノロジーにより女性の人生を改善します」@<fn>{elvie_vision}。
@@ -192,7 +192,7 @@ Elvieは、搾乳機や産後ケアグッズにテクノロジーを導入する
 
 //footnote[elvie_vision][原文 "Our mission is to improve women's lives through smarter technology." を筆者が意訳]
 
-//image[elvie_bm][ビジネスモデル]{
+//image[elvie][Elvieのプロダクト 出典：https://www.elvie.com/en-us/]{
 //}
 
 //embed[latex]{
@@ -258,9 +258,6 @@ FemtechというよりはSextechに分類されるサービスですが、非常
  * ダウンロード不可やクローズドなアクセスなど投稿者の安全性を確保！
 
 #@# //footnote[mlnp_vision][原文 "Our mantra... everybody is beautiful when they'er having real world sex. And they really are." を筆者が意訳]
-
-//image[mlnp_bm][ビジネスモデル]{
-//}
 
 === ポルノ動画による弊害
 
