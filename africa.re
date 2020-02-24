@@ -255,10 +255,12 @@ Flareはビジネスとして社会問題を解決する、非常に素晴らし
 #@# No.04
 == Elves「チャット対話型AIコンシェルジュ」
 
-Elves (エルヴズ) は、チャットによる対話を通して人々の生活をサポートするアプリを運営するエジプトのスタートアップです。
+Elves (エルヴズ) @<fn>{elves_official}は、チャットによる対話を通して人々の生活をサポートするアプリを運営するエジプトのスタートアップです。
 GoogleアシスタントやSiriが「完全独立型AIチャットボット」とすると、Elvesは「人間支援型AIチャットボット」です。
 
 コンセプトは「あなたの抱えるやるべきことを、私たちが代わりに行います」@<fn>{elves_vision}。
+
+//footnote[elves_official][Elves: @<href>{https://www.elvesapp.com/}]
 
 //footnote[elves_vision][原文 "Getting Your To-Dos Done" を筆者が意訳]
 
@@ -272,7 +274,7 @@ GoogleアシスタントやSiriが「完全独立型AIチャットボット」�
  * AI技術により、人間のコンシェルジュは同時に25つ以上のチャットを処理可能に！
  * ユーザーとの会話を学習し、使うほどユーザーに最適化！
 
-//image[elves_bm][ビジネスモデル]{
+//image[elves][アプリイメージ 出典：https://www.elvesapp.com/]{
 //}
 
 === エジプトの首都カイロ
