@@ -54,14 +54,14 @@
 #@# No.01
 == Sanergy「都市スラムの衛生インフラを構築」
 
-Sanergyは、スラムの衛生課題に真正面から取り組むケニアのスタートアップです。
+Sanergy@<fn>{sanergy_web}は、スラムの衛生課題に真正面から取り組むケニアのスタートアップです。
 下水設備の整っていないスラムに設置するトイレ「Fresh Life」を起点に、ケニアの「衛生危機」と「農業課題」を同時に解決する素晴らしいビジネスモデルを構築しています。
 
-政府に変わりビジネスとして衛生インフラを支えているため、社会へ与えるインパクトが非常に大きな熱い企業です！
+政府に変わりビジネスとして衛生インフラを支えているため、社会へ与えるインパクトが非常に大きな熱い企業です。
 
 ビジョンは「健康で豊かなコミュニティを構築する」@<fn>{sanergy_vision}。
 
-//footnote[sanergy_vision][原文 "Building healthy, Prosperous communities" を筆者が意訳（企業ロゴ下の文章であり企業Visionであるかは不明）]
+//footnote[sanergy_vision][原文 "Building healthy, Prosperous communities" を筆者が意訳]
 
 === 一言で言うと？
 
@@ -70,10 +70,10 @@ Sanergyは、スラムの衛生課題に真正面から取り組むケニアの�
 === ここが熱い！
 
  * 下水設備の1/5の価格で、毎日12.4万人が利用するスラムの衛生インフラを構築！
- * 衛生サービスをパッケージ化し、フランチャイズによる横展開を可能にしたビジネスモデル！
+ * 衛生サービスをパッケージ化し、フランチャイズ展開を可能にしたビジネスモデル！
  * 排泄物から生産される有機肥料により、作物の収穫量を30%増加！
 
-//image[sanergy_bm][ビジネスモデル]{
+//image[sanergy][Fresh Life 出典：https://www.csmonitor.com/World/Making-a-difference/Change-Agent/2014/0317/In-Kenya-selling-human-waste-could-revolutionize-sanitation][scale=0.8]{
 //}
 
 === 急速に発展する都市とスラム
@@ -88,7 +88,7 @@ Sanergyは、スラムの衛生課題に真正面から取り組むケニアの�
 道端に捨てられた排泄物は深刻な衛生危機を引き起こし、病気による経済的損失は、ケニアのGDPの1%にのぼると推定されるようです。
 
 また、人口増加は食料の問題も引き起こします。ケニア人の80%が農業に依存していますが、需要に対し肥料の供給が追いついていません。
-土壌の劣化による生産性の低下は食料供給量へ影響を与えるため、ケニア農業省は農家へ、ヘクタールあたり10トンの有機肥料による土壌改善を推奨しています@<fn>{sanergy_web}。
+土壌の劣化による生産性の低下は食料供給量へ影響を与えるため、ケニア農業省は農家へ、ヘクタールあたり10トンの有機肥料による土壌改善を推奨しています。
 
 === Fresh Life ネットワーク
 
@@ -118,18 +118,12 @@ Sanergyは、水の必要ない簡易トイレ「Fresh Life」の設置、マネ
 \clearpage
 //}
 
-調整用
-
-//embed[latex]{
-\clearpage
-//}
-
 #@# No.02
-== MOBIUS MOTERS「Made in Africaのクルマ」
+== MOBIUS MOTORS「Made in Africaのクルマ」
 
-MOBIUS MOTERSは、アフリカでクルマの開発を行うケニアのスタートアップです。
+MOBIUS MOTORS@<fn>{mobius_official}は、アフリカでクルマの開発を行うケニアのスタートアップです。
 現地の消費者のニーズに合わせたクルマを現地で1から設計し、生産/販売まで行っています。
-広大な土地を持つアフリカ経済の中で、アフリカの大衆車になることを目指してビジネスを進めています！
+広大な土地を持つアフリカ経済の中で、アフリカの大衆車になることを目指してビジネスを進めています。
 
 ビジョンは「モビリティでアフリカの経済成長を加速させる」@<fn>{mobius_vision}。
 
@@ -142,12 +136,12 @@ MOBIUS MOTERSは、アフリカでクルマの開発を行うケニアのスタ�
 === ここが熱い！
 
  * 現地のニーズに完全に最適化した設計！
- * モビリティを製造するだけでなく、運送業などのプラットフォームになることを目指す！
+ * モビリティを製造するだけでなく、運送業などのプラットフォームを目指す！
  * 戦後50年以上、誰もなし得ていないアフリカの工業化に挑戦！
 
 #@# No.02//image[02_bm][ビジネスモデル]{
 #@# No.02//}
-//image[mobius_road][アフリカの道路の舗装率]{
+//image[mobius][アフリカの道路の舗装率 International Road Federation資料より作成 @<href>{https://www.tralac.org/images/News/Reports/Economic%20Report%20on%20Africa%202017%20UNECA.pdf}][scale=0.8]{
 //}
 
 === アフリカの交通インフラ
@@ -161,7 +155,7 @@ MOBIUS MOTERSは、アフリカでクルマの開発を行うケニアのスタ�
 
 === Mobius Ⅱ
 
-MOBIUS MOTERSは、徹底的に現地のニーズに合わせたクルマを1から開発することで、その問題を解決しています。
+MOBIUS MOTORSは、徹底的に現地のニーズに合わせたクルマを1から開発することで、その問題を解決しています。
 彼らの製品である「Mobius Ⅱ」は現地の課題である、「悪路での走行、少数コミュニティでクルマを買えない、収納容量が少ない」などにターゲットを合わせています。
 
 重要な設計思想は「シンプルさ」です。
@@ -174,6 +168,8 @@ MOBIUS MOTERSは、徹底的に現地のニーズに合わせたクルマを1か
 大手海外自動車メーカーや、ケニアのサプライヤとも協業を行い、シリーズBには190万ドルの資金調達に成功しました。
 
 MOBIUS MOTERSは、アフリカのためのクルマを生産する、非常に有望なアフリカ発の自動車スタートアップです。
+
+//footnote[mobius_official][Mobius Motors: @<href>{https://mobiusmotors.com/}]
 
 //footnote[mobius_road][International Road Federation: @<href>{https://www.uneca.org/sites/default/files/PublicationFiles/web_en_era-2017_01.pdf}]
 
