@@ -297,7 +297,7 @@ MLNPは、SNSで食べ物をシェアするような感覚で、セックス動�
 #@# No.15
 == Bloomlife「陣痛を監視するウェアラブルデバイス」
 
-Bloomlifeは、今までセンシングできていなかった家庭での胎内の情報を可視化するウェアラブルデバイスです。
+Bloomlife@<fn>{bl_official}は、今までセンシングできていなかった家庭での胎内の情報を可視化するウェアラブルデバイスです。
 まだ研究段階のようですが、早産や流産の兆候をいち早く察知し未然に防ぐ事ができるようになるかもしれません。
 発売はまだですがモニターの募集は行っており、希望すれば実際にデバイスを装着して体験することが出来るようです。
 
@@ -315,7 +315,7 @@ Bloomlifeは、今までセンシングできていなかった家庭での胎�
 
 //footnote[bl_vision][原文 "Inniting a meternal health revolution" を筆者が意訳]
 
-//image[bl_bm][ビジネスモデル]{
+//image[bl][デバイス 出典：https://sports.yahoo.com/news/bloomlife-pregnancy-wearable-helps-expectant-011556899.html]{
 //}
 
 === 早産や流産
@@ -347,6 +347,8 @@ BEATLEプロジェクトは、胎児の動きとや心拍数のデータを用�
 この研究が進めば、流産や早産を減少させる画期的なソリューションが生まれるかもしれません。
 Bloomlifeは世界の悲劇を減らしうる可能性のあるプロダクトです。
 
+//footnote[bl_official][Bloomlife: @<href>{https://bloomlife.com/}]
+
 //footnote[bl_ncchd][国立成育医療研究ｾﾝﾀｰ: @<href>{https://www.ncchd.go.jp/hospital/pregnancy/senmon/sozan.html}]
 
 //footnote[bl_mhlw][厚生労働省: @<href>{https://www.mhlw.go.jp/bunya/kodomo/boshi-hoken13/dl/02.pdf}]
@@ -359,11 +361,10 @@ Bloomlifeは世界の悲劇を減らしうる可能性のあるプロダクト�
 \clearpage
 //}
 
-
 #@# == No.16
 == Lora Dicarlo「女性が作る女性のためのセックストイ」
 
-Lora Dicarlo (ローラ・ディカロル、以下LD) は、女性主体のエンジニアチームが女性のためのセックストイを開発しているアメリカのスタートアップです。
+Lora Dicarlo (ローラ・ディカロル、以下LD) @<fn>{ld_official}は、女性主体のエンジニアチームが女性のためのセックストイを開発しているアメリカのスタートアップです。
 非常に話題性の大きな企業で、FemtechやSextechの枠を超えて世界へ大きな影響を与えています。
 技術力に裏打ちされたプロダクトも非常に魅力的で、広くユーザーに支持されています。
 
@@ -375,13 +376,13 @@ Lora Dicarlo (ローラ・ディカロル、以下LD) は、女性主体のエ�
 
 === ここが熱い！
 
- * CES2019で受賞した後に「セックストイは不適切」と剥奪されたことで大きな議論へ！
+ * CES2019で受賞後「セックストイは不適切」と剥奪されたことで大きな議論へ！
  * 話題性だけでなく、技術力に裏打ちされたプロダクトの完成度！
  * ローンチから36時間で150万ドル (1ドル100円で約1億5,000万円) の売上！
 
 //footnote[ld_vision][原文 "To create a sexually equitable world where all genders and sexualities are met with innovative and thoughtful tools to serve on their path to pleasure." を筆者が意訳]
 
-//image[ld_bm][ビジネスモデル]{
+//image[ld][Osé 出典：https://loradicarlo.com/]{
 //}
 
 === 人間の動きを再現したセックストイ
@@ -409,6 +410,8 @@ LDへは応援のメッセージが数万件届いたといいます。
 今後さらに影響力が高まると予想され、目が話せない企業です。
 
 #@# 2020年のCESでは、新しいデバイス2つがそれぞれイノベーションアワードを受賞し、CESでの受賞は計3つとなります。
+
+//footnote[ld_official][Lora Dicarlo: @<href>{https://loradicarlo.com/}]
 
 //footnote[ld_android][Android Authority: @<href>{https://www.androidauthority.com/naughty-america-ar-porn-941344/}]
 
