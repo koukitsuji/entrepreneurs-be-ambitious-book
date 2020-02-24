@@ -51,7 +51,7 @@ Femtechは、テクノロジーで課題を解決すると共に、男性や女�
 #@# No.11
 == Livia「生理痛を軽減するウェアラブルデバイス」
 
-Liviaは、女性の生理痛の悩みを解決するデバイスを提供するイスラエルのスタートアップです。
+Livia (リビア) @<fn>{livia_official}は、女性の生理痛の悩みを解決するデバイスを提供するイスラエルのスタートアップです。
 科学的に証明済みの技術により、身体に負荷をかけることなく痛みを軽減することが可能です。
 デザインや携帯性に優れた設計のため、特に症状が重い体質の女性にとっては人生を変えるプロダクトとなるでしょう。
 
@@ -69,7 +69,7 @@ Liviaは、女性の生理痛の悩みを解決するデバイスを提供する
 
 //footnote[livia_vision][原文 "We’re on a mission to change the way women everywhere experience their period." を筆者が意訳]
 
-//image[livia_bm][ビジネスモデル]{
+//image[livia][Livia 出典：https://mylivia.com/]{
 //}
 
 === 女性の人生で月経が占める時間
@@ -102,6 +102,8 @@ Liviaは小さく服の下に隠れるサイズで、公共の場での使用も
 Youtubeで確認したところ音もほとんど出ないため、静かなオフィスでも使用できるかもしれません。
 日常の中で、何度も繰り返して訪れる痛みや不快感を軽減できるのであれば、そんなに素晴らしいことはないと思います。
 Liviaは文字通り、テクノロジーで女性の人生を変えるプロダクトでしょう。
+
+//footnote[livia_official][Livia: @<href>{https://mylivia.com/}]
 
 //footnote[livia_jaog][日本産婦人科医会: @<href>{https://www.jaog.or.jp/qa/youth/}]
 
