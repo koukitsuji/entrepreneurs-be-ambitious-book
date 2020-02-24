@@ -525,7 +525,7 @@ Solarpakは、ソーラーパネルと充電機能が搭載されたリュック
 #@# No.7
 == SWVL「バスのライドシェアによる交通インフラ」
 
-SWVL（スエフル）は、ライドシェア型のマッチングアプリを運営するエジプトのスタートアップです。
+SWVL（スエフル）@<fn>{swvl_official}は、ライドシェア型のマッチングアプリを運営するエジプトのスタートアップです。
 一見するとバス版のUberのようですが、さらに公共交通機関としての利便性を高めたサービスです。
 現地の需要を掴み、2017年4月の創業から急速に成長し事業を拡大しています。
 
@@ -543,7 +543,7 @@ SWVL（スエフル）は、ライドシェア型のマッチングアプリを�
  * ユーザーのニーズに合わせてルートを常に最適化！
  * 創業から約2年で4,2000万米ドルのシリーズC資金調達をおこなう成長速度！@<fn>{swvl_sem10x}
 
-//image[swvl_bm][ビジネスモデル]{
+//image[swvl][SWVLバス 出典：https://www.cairo360.com/article/city-life/going-alone-or-with-friends-swvl-has-your-afcon-2019-transportation-covered/]{
 //}
 
 === カイロの交通問題
@@ -575,6 +575,8 @@ SWVL自体はバスを保有していないため、SWVLはパートナーの民
 
 交通機関が麻痺した都市において、SWVLは公共交通インフラの代替となることが既に実証されているため、他の都市へのさらなる展開が大いに期待されます。
 創業者が「ユニコーンを目指す」と話すように、今後のSWVLの事業拡大に目が話せません。
+
+//footnote[swvl_official][SWVL: https://swvl.com/]
 
 //footnote[swvl_sem10x][SEM10x: https://www.sme10x.com/whats-the-deal/watch-out-uber-and-careem-swvl-in-growing-fast]
 
