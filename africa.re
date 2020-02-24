@@ -395,16 +395,15 @@ Caskyが面白いのは、ドライバーへの金銭的なインセンティブ
 \clearpage
 //}
 
-
 #@# No.06
 == AgriProtein「昆虫タンパク質で資源問題を解決」
 
-AgriProteinは、世界的な「食料破棄問題」と「資源問題」に真っ向勝負を挑む南アフリカのスタートアップです。
+AgriProtein@<fn>{ap_official}は、世界的な「食料破棄問題」と「資源問題」に真っ向勝負を挑む南アフリカのスタートアップです。
 昆虫テクノロジーにより食料のループを閉じることで、循環型経済の実現を目指しています。
 
-ビジョンは「」@<fn>{ap_vision}。
+メッセージは「バイオテクノロジーにより破棄食料を持続可能な昆虫プロテインへリサイクルします」@<fn>{ap_vision}。
 
-//footnote[ap_vision][原文 "" を筆者が意訳]
+//footnote[ap_vision][原文 "Recycling food waste into sustainable insect protein using biotechnology" を筆者が意訳]
 
 === ひとことで言うと？
 
@@ -416,7 +415,7 @@ AgriProteinは、世界的な「食料破棄問題」と「資源問題」に真
  * R&Dによる効率最大化で、1施設当たり毎日350トンの破棄食料を処理可能に！
  * 人口増加に伴う「食料問題」や「気候問題」も間接的に解決！
 
-//image[ap_bm][ビジネスモデル]{
+//image[ap][AgriProteinの循環図 出典：https://agriprotein.com/]{
 //}
 
 === 世界の人口増加と食糧危機、資源問題
