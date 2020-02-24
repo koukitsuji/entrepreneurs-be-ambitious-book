@@ -8,7 +8,7 @@ Femtechは、その名の通り女性 (Female) ×Technologyの略語です。
 
 Femtechは、生理管理アプリ「Clue」@<fn>{fem_clue}を開発した女性起業家Ida Tin氏によって提唱された概念です。
 2013年にClueがリリースされてから、Femtech市場は着実に成長しており、今年2020年には全世界での投資額は12億米ドルに達すると予想されています。
-データが出ている2018年で前年比83%の成長です（図3.1）。
+データが出ている2018年で前年比83%の成長です（図2.1）。
 
 === 女性のタブーに切り込む
 
@@ -35,7 +35,7 @@ Femtechは、テクノロジーで課題を解決すると共に、男性や女�
 筆者の力の及ぶ限り公的な資料に当たり、正しい理解の下で敬意を持って公平な記述を行いました。
 もし私の表現により気分を害された場合は、筆者にそのような意図は一切ないこと、および筆者の力不足ゆえのこととご理解いただけると幸いです。
 
-//image[invest][全世界におけるFemtech市場へのVC投資額 Forbes記事内 FROST & SULLIVAN 資料より作成 https://www.forbes.com/sites/reenitadas/2019/09/24/is-technology-pink-investments-in-femtech-to-cross-the-13-billion-mark-in-2020/#32f15e8c5205][scale=0.85]{
+//image[fem_invest][全世界におけるFemtech市場へのVC投資額 Forbes記事内 FROST & SULLIVAN 資料より作成 https://www.forbes.com/sites/reenitadas/2019/09/24/is-technology-pink-investments-in-femtech-to-cross-the-13-billion-mark-in-2020/#32f15e8c5205][scale=0.85]{
 //}
 
 //footnote[fem_clue][Clue: @<href>{https://helloclue.com/}]
