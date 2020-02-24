@@ -184,11 +184,13 @@ MOBIUS MOTERSは、アフリカのためのクルマを生産する、非常に�
 #@# No.03
 == Flare「Uber型の救急車配車システム」
 
-Flare (フレア) は、ケニアのヘルスケア系スタートアップCupsule Ltdが開発した技術です。
+Flare (フレア) @<fn>{flare_official}は、ケニアのヘルスケア系スタートアップCupsule Ltdが開発した技術です。
 GPS位置情報により、急病人/救急車/医療施設をマッチングするUber型のモバイルアプリとしてスタートしました。
 現在は形を変えて、会員制の緊急医療支援サービスRescue.coのコア技術として使用されています。
 
 ビジョンは「操作は簡単で、しかし迅速に、あなたの命を救います」@<fn>{flare_vision}。
+
+//footnote[flare_official][Flare: @<href>{https://flare.co.ke/}]
 
 //footnote[flare_vision][原文 "It's easy, it's fast, and it will save your life." を筆者が意訳]
 
@@ -202,7 +204,7 @@ GPS位置情報により、急病人/救急車/医療施設をマッチングす
  * 400以上の救急車をつなぐビジネスとしての社会インフラを構築！
  * 119番システムを持たないサハラ以南の多くの都市へ展開が可能！
 
-//image[flare_bm][ビジネスモデル]{
+//image[flare][アプリイメージ 出典：https://disrupt-africa.com/2016/09/kenyas-flare-raises-100k-to-take-ambulance-app-to-market/]{
 //}
 
 === アフリカの119番
