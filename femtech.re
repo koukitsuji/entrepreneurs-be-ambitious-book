@@ -428,7 +428,7 @@ LDへは応援のメッセージが数万件届いたといいます。
 #@# No.17
 == Kegg「妊娠可能期間を検出するウェアラブルデバイス」
 
-kegg（ケッグ）は、女性の排卵日や妊娠可能期間をトラッキングするウェアラブルデバイスです。
+kegg（ケッグ）@<fn>{kegg_official}は、女性の排卵日や妊娠可能期間をトラッキングするウェアラブルデバイスです。
 アメリカのスタートアップLady Technologiesにより開発されています。
 形状や使い方は前述のElvie Trainerに近いですが、世界初のセンシング技術を持ったデバイスです。
 クラウドファンディングで資金調達後に開発しており、今年の4月ごろ製品の発送が行われるようです。
@@ -446,7 +446,7 @@ kegg（ケッグ）は、女性の排卵日や妊娠可能期間をトラッキ�
 
 //footnote[kegg_vision][原文 "kegg is the health and wellness guide that gives you the information you need to know and the resources you need to act." を筆者が意訳]
 
-//image[kegg_bm][ビジネスモデル]{
+//image[kegg][Keggプロダクト 出典：https://kegg.tech/]{
 //}
 
 === 女性の生理周期と排卵日
@@ -509,9 +509,6 @@ Maven Clinic（メイヴン・クリニック）は、インターネットを�
  * 様々な分野の専門家1,700人以上へ24時間コンタクト可能！
 
 //footnote[mc_vision][原文 "Maven empowers women and families to take care and take on the world" を筆者が意訳]
-
-//image[mc_bm][ビジネスモデル]{
-//}
 
 === 出産とキャリア
 
