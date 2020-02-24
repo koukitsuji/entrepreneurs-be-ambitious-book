@@ -461,11 +461,7 @@ AgriProteinビジネスモデルも非常に面白いですが、ハエの制御
 #@# No.10
 == Qelasy「電気の無い地域に教育の機会を提供」
 
-Qelasy（ケラシー）は、教育の電力化や電気インフラ未整備地域の教育機会の創出に組むコートジボワールのスタートアップです。
-
-ビジョンは「」@<fn>{qelasy_vision}。
-
-//footnote[qelasy_vision][原文 "" を筆者が意訳]
+Qelasy（ケラシー）@<fn>{qelasy_official}は、教育の電力化や電気インフラ未整備地域の教育機会の創出に組むコートジボワールのスタートアップです。
 
 === ひとことで言うと？
 
@@ -477,7 +473,7 @@ Qelasy（ケラシー）は、教育の電力化や電気インフラ未整備�
  * 9,000万人以上の非電力化地域のアフリカの子供へ学習機会の適用を目指す！
  * 「あしながおじさん」を募るアプリも運営！
 
-//image[qelasy_bm][ビジネスモデル]{
+//image[qelasy][出典：https://thisisafrica.me/africans-rising/solarpak-school-bags-cote-divoires-education/]{
 //}
 
 === アフリカの非電力化地域
