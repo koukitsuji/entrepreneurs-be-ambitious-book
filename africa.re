@@ -121,7 +121,6 @@ R&Dセンターでは、チームが常に技術革新のための研究を行�
 \clearpage
 //}
 
-#@# No.03
 == Capsule「Uber型の救急車配車システム」
 
 Capsule (カプセル) @<fn>{flare_official_c}は、ケニアのヘルスケア系スタートアップです。
@@ -194,7 +193,6 @@ Capsuleのサービスは、経済活動として生命に関わるインフラ�
 \clearpage
 //}
 
-#@# No.02
 == MOBIUS MOTORS「Made in Africaのクルマ」
 
 MOBIUS MOTORS@<fn>{mobius_official}は、アフリカでクルマの開発を行うケニアのスタートアップです。
@@ -267,6 +265,80 @@ MOBIUS MOTORS@<fn>{mobius_official}は、アフリカでクルマの開発を行
 \clearpage
 //}
 
+== Elves「チャット対話型AIコンシェルジュ」
+
+Elves (エルヴズ) @<fn>{elves_official}は、チャットによる対話を通して人々の生活をサポートするアプリを運営するエジプトのスタートアップです。
+GoogleアシスタントやSiriが「完全自動型AIチャットボット」とすると、Elvesは「人間支援型AIチャットボット」です。
+
+コンセプトは「あなたの抱えるやるべきことを、私たちが代わりに行います」@<fn>{elves_vision}。
+
+=== ひとことで言うと？
+
+ユーザーと実在する人間のコンシェルジュを結びつけるチャット型プラットフォームにより、フライトの予約から母の日のギフト選びまで、すべてのTODOを代行するAIアシスタントです。
+
+=== ここが熱い！
+
+ * 実在する人間とAI技術の組み合わせで精度の高いサポート！
+ * AI技術により人間のコンシェルジュは25つ以上の依頼を同時に処理可能！
+ * AIはユーザーとの会話を学習し、使うほどユーザーに最適化！
+
+//image[elves][Elvesのサービスの仕組み]{
+//}
+
+=== エジプトの首都カイロ
+
+#@# ピラミッドやスフィンクスで有名なように、エジプトは約5,000年の長い歴史を持つ国です。
+エジプトの国土面積は日本の約2.7倍ですが、そのうちの96%は砂漠で、ナイル川の周辺に耕作可能な緑地が4%存在します。
+エジプトの人口は約一億人で、そのうち95%の約9,500万人がこの限られた緑地に住んでいます。
+首都カイロの人口は約2,500万人ですが、このような背景から慢性的な人口過密状態にあります。
+そのため、カイロでは簡単な作業を終わらせるのに多くの時間を必要とします。
+冷蔵庫の修理に2週間ほどかかり、ラマダンの期間には夜食用の食料品を買うためにレジに数時間並ぶこともあります@<fn>{elves_cairo}。
+
+Elvesはこのような無駄を解決するために生まれたソリューションです。
+#@# 例えば人口が集中する事による交通渋滞が深刻で、カイロのラッシュアワーは一日中続くとも言われています@<fn>{04_cairo}。
+
+=== 人間支援型AIコンシェルジュ
+
+Elvesの最も大きな特徴は、システムの裏側に「実在する人間」のコンシェルジュ（「エルフ」と呼ぶ）が存在することです。
+ユーザーとElvesの接点は、Facebookメッセンジャーやアプリ上でのチャットです。
+チャット対応はAI技術で実装されており、必要な情報をユーザーから聞き出した後に、適切なエルフへ振り分けるまでを自動で行います。
+エルフは依頼を実行することに集中できるため、1人のエルフが同時に25以上のタスクを処理することが可能となります。
+
+これは、創業者の経験（大規模なコールセンターのマネジメント）と機械学習の知識が融合した結果のビジネスモデルです。
+多くの会社が完全自動AIチャットボットを目指すトレンドに逆行しますが、人の手が介入する事により他社と比較にならないほど高精度で柔軟な対応が可能となります。
+フライトや宿の予約はもちろんのこと、「花束で満たされた車を用意する」といった特殊な依頼まで、Elvesには不可能なことはほぼありません。
+
+#@# チャットによりユーザーという情報を機械学習し、使うほどその顧客へ最適化して行きます。
+人間の介入がスケーラビリティへ影響を与えそうですが、トラフィックの多くをAIによる自動処理へ移行していくことによりそれを回避しています。
+少なくとも2017年3月時点で、30人のエルフが月に約1.5万人のアクティブユーザーを処理しています@<fn>{elves_ent}。
+そこから10ヶ月後の2018年1月の記事では、エルフは50人にまで増え、毎月10~15%の収益増加をしていることが確認できます@<fn>{elves_dis}。
+
+このサービスの素晴らしい点は、Elvesの収益源が店側からの手数料である点です。
+そのため、ユーザーは無料かつ無広告で、さらに手数料の乗らない正規料金でタスクを依頼できます。
+非常に便利なため、日本へローカライズしたサービスが使いたいですね。
+
+#@# 値段を監視して、安くなるとそちらへ変える提案をしてくる。変えるのも無料というのは入れたい
+#@# その証拠に、AI化の進行により、半年間で同数のエルフで2倍の依頼を処理可能となっています。
+
+//footnote[elves_official][Elves公式: @<href>{https://www.elvesapp.com/}]
+
+//footnote[elves_vision][原文 "Getting Your To-Dos Done" を筆者が意訳]
+#@# //footnote[04_popu][外務省: @<href>{https://www.mofa.go.jp/mofaj/area/egypt/data.html}]
+
+#@# FIXME: for pdf
+#@# //footnote[04_cairo][Business news: @<br>{}@<href>{https://libn.com/2020/01/06/cantor-egypt-and-its-people-an-ancient-land-facing-change/}]
+//footnote[elves_cairo][Business news: https://libn.com/2020/01/06/cantor-egypt-and-its-people-an-ancient-land-facing-change/]
+
+//footnote[elves_ent][Entreprener.com: @<href>{https://www.entrepreneur.com/article/308522}]
+
+#@# FIXME: for pdf
+#@# //footnote[04_dis][Disrupt Africa: @<br>{}@<href>{https://disrupt-africa.com/2018/01/egypts-elves-targets-millennials-globally-after-seed-funding/}]
+//footnote[elves_dis][Disrupt Africa: https://disrupt-africa.com/2018/01/egypts-elves-targets-millennials-globally-after-seed-funding/]
+
+//embed[latex]{
+\clearpage
+//}
+
 #@# No.01
 == Sanergy「都市スラムの衛生インフラを構築」
 
@@ -329,81 +401,6 @@ Sanergyは、水の必要ない簡易トイレ「Fresh Life」の設置、マネ
 //footnote[sanergy_web][Sanergr: @<href>{http://www.sanergy.com/}]
 
 //footnote[sanergy_feed][乾燥させた幼虫。人間が食べても問題なく、ｺｰﾝﾌﾚｰｸに似た風味と食感で意外と美味しかったです…]
-
-//embed[latex]{
-\clearpage
-//}
-
-#@# No.04
-== Elves「チャット対話型AIコンシェルジュ」
-
-Elves (エルヴズ) @<fn>{elves_official}は、チャットによる対話を通して人々の生活をサポートするアプリを運営するエジプトのスタートアップです。
-GoogleアシスタントやSiriが「完全独立型AIチャットボット」とすると、Elvesは「人間支援型AIチャットボット」です。
-
-コンセプトは「あなたの抱えるやるべきことを、私たちが代わりに行います」@<fn>{elves_vision}。
-
-//footnote[elves_official][Elves: @<href>{https://www.elvesapp.com/}]
-
-//footnote[elves_vision][原文 "Getting Your To-Dos Done" を筆者が意訳]
-
-=== ひとことで言うと？
-
-ユーザーと実在する人間のコンシェルジュを結びつけるチャット型プラットフォームにより、フライトの予約から母の日のギフト選びまで、すべてのTODOを代行するAIアシスタントです。
-
-=== ここが熱い！
-
- * 人間とAI技術の組み合わせで、精度の高いプランニング！
- * AI技術により、人間のコンシェルジュは同時に25つ以上のチャットを処理可能に！
- * ユーザーとの会話を学習し、使うほどユーザーに最適化！
-
-//image[elves][アプリイメージ 出典：https://www.elvesapp.com/]{
-//}
-
-=== エジプトの首都カイロ
-
-#@# ピラミッドやスフィンクスで有名なように、エジプトは約5,000年の長い歴史を持つ国です。
-エジプトの国土面積は日本の約2.7倍ですが、そのうちの96%は砂漠で、ナイル川の周辺に耕作可能な緑地が4%存在します。
-エジプトの人口は約一億人で、そのうち95%の約9,500万人が限られた緑地に住んでいます。
-首都カイロの人口は約2,500万人で、慢性的な人口過密状態にあります。
-そのため、カイロでは簡単な作業を終わらせるのに多くの時間を必要とします。
-冷蔵庫の修理に2週間ほどかかり、ラマダンの期間には夜食用の食料品を買うためにレジに数時間並ぶこともあります@<fn>{elves_cairo}。
-
-Elvesはこのような無駄を解決するためのソリューションです。
-#@# 例えば人口が集中する事による交通渋滞が深刻で、カイロのラッシュアワーは一日中続くとも言われています@<fn>{04_cairo}。
-
-=== 人間支援型AIコンシェルジュ
-
-Elvesの最も大きな特徴は、システムの裏側に「実在する人間」のコンシェルジュ（「エルフ」と呼ぶ）が存在することです。
-ユーザーとElvesの接点は、Facebookメッセンジャーやアプリ上でのチャットです。
-チャット対応はAI技術で実装されており、必要な情報をユーザーから聞き出した後に、適切なエルフへ振り分けるまでを自動で行います。
-エルフは依頼を実行することに集中できるため、1人のエルフが同時に25以上のタスクを処理することが可能となります。
-
-これは、創業者の経験（大規模なコールセンターのマネジメント）と機械学習の知識が融合した結果のビジネスモデルです。
-多くの会社がAI完全自動チャットボットを目指すトレンドに逆行しますが、人の手が介入する事により他社と比較にならないほど高精度で柔軟な対応が可能となります。
-フライトや宿の予約はもちろんのこと、「花束で満たされた車を用意する」といった特殊な依頼まで、Elvesには不可能なことはほぼありません。
-
-#@# チャットによりユーザーという情報を機械学習し、使うほどその顧客へ最適化して行きます。
-人間の介入がスケーラビリティへ影響を与えそうですが、トラフィックの多くをAIによる自動処理へ移行していくことによりそれを回避しています。
-少なくとも2017年3月時点で、30人のエルフが月に約1.5万人のアクティブユーザーを処理しています@<fn>{elves_ent}。
-そこから10ヶ月後の2018年1月の記事では、エルフは50人にまで増え、毎月10~15%の収益増加をしていることが確認できます@<fn>{elves_dis}。
-
-このサービスの素晴らしい点は、Elvesの収益源が店側からの手数料である点です。
-そのため、ユーザーは無料かつ無広告で、さらに手数料の乗らない正規料金でタスクを依頼することが可能です。
-
-#@# 値段を監視して、安くなるとそちらへ変える提案をしてくる。変えるのも無料というのは入れたい
-#@# その証拠に、AI化の進行により、半年間で同数のエルフで2倍の依頼を処理可能となっています。
-
-#@# //footnote[04_popu][外務省: @<href>{https://www.mofa.go.jp/mofaj/area/egypt/data.html}]
-
-#@# FIXME: for pdf
-#@# //footnote[04_cairo][Business news: @<br>{}@<href>{https://libn.com/2020/01/06/cantor-egypt-and-its-people-an-ancient-land-facing-change/}]
-//footnote[elves_cairo][Business news: https://libn.com/2020/01/06/cantor-egypt-and-its-people-an-ancient-land-facing-change/]
-
-//footnote[elves_ent][Entreprener.com: @<href>{https://www.entrepreneur.com/article/308522}]
-
-#@# FIXME: for pdf
-#@# //footnote[04_dis][Disrupt Africa: @<br>{}@<href>{https://disrupt-africa.com/2018/01/egypts-elves-targets-millennials-globally-after-seed-funding/}]
-//footnote[elves_dis][Disrupt Africa: https://disrupt-africa.com/2018/01/egypts-elves-targets-millennials-globally-after-seed-funding/]
 
 //embed[latex]{
 \clearpage
