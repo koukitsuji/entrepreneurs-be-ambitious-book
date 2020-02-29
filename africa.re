@@ -71,7 +71,7 @@ AgriProtein@<fn>{ap_official}は、世界的な人口増加トレンドに伴う
  * R&Dによる効率最大化で、1施設当たり毎日350トンの破棄食料を処理可能に！
  * 人口増加に伴う「食料問題」や「気候問題」も間接的に解決！
 
-//image[ap][AgriProteinの循環図 出典：https://agriprotein.com/]{
+//image[ap][AgriProteinが目指す循環型経済]{
 //}
 
 === 世界の人口増加と食糧危機、資源問題
@@ -84,7 +84,7 @@ AgriProtein@<fn>{ap_official}は、世界的な人口増加トレンドに伴う
 家畜のエサとなる魚粉に着目すると、2024年までに供給量が500万トン不足すると予測されています。
 このニーズを満たすには漁獲量を増やす必要があるのですが、これ以上の乱獲は海洋資源へ悪影響を及ぼします。
 というのも、現時点ですら、世界の漁獲量の1/3以上が持続不可能なペースで漁獲されていると言われているためです。
-つまり、家畜のエサの代替が求められています@<fn>{ap_official}。
+つまり、家畜のエサの代替が求められています@<fn>{ap_official2}。
 
 一方で、世界では年間約13億トンの食品破棄が出ています。
 これは世界中で生産されるすべての食料品の30%に相当します。
@@ -111,7 +111,9 @@ R&Dセンターでは、チームが常に技術革新のための研究をお�
 #@# 穀物を生産するに当たり、耕作可能地と水資源が増えることはありません。平方メートル当たりの収穫量を増やす必要があります。
 #@# 「MagOil」は多目的の高濃度ラウリン酸含有天然オイルです。同じくハエの幼虫から抽出されており、水産養殖飼料などに使用可能です。
 
-//footnote[ap_official][課題はAgriProtein公式サイトより: @<href>{https://agriprotein.com/}]
+//footnote[ap_official][AgriProtein公式: @<href>{https://agriprotein.com/}]
+
+//footnote[ap_official2][課題の情報はAgriProtein公式より: @<href>{https://agriprotein.com/}]
 
 //footnote[ap_pop][国連世界人口推計2019 Medeumシナリオ: @<href>{https://population.un.org/wpp/}]
 
