@@ -190,6 +190,78 @@ Capsuleのサービスは、経済活動として生命に関わるインフラ�
 
 //footnote[flare_fastcom][Fast Company: @<href>{https://www.fastcompany.com/company/flare}]
 
+//embed[latex]{
+\clearpage
+//}
+
+#@# No.02
+== MOBIUS MOTORS「Made in Africaのクルマ」
+
+MOBIUS MOTORS@<fn>{mobius_official}は、アフリカでクルマの開発を行うケニアのスタートアップです。
+現地の消費者のニーズに合わせたクルマを現地で1から設計し、生産/販売/カスタマーサポートまで行っています。
+広大な土地を持つアフリカ経済の中で、アフリカの大衆車になることを目指してビジネスを進めています。
+
+ビジョンは「モビリティでアフリカの経済成長を加速させる」@<fn>{mobius_vision}。
+
+//footnote[mobius_vision][原文 "Boosting economic growth in Africa via mobility" を筆者が意訳]
+
+=== ひとことで言うと？
+
+アプリカのためのクルマを、アフリカで設計し、アフリカで生産しています。
+
+=== ここが熱い！
+
+ * 現地のニーズに完全に最適化した設計！
+ * モビリティを製造するだけでなく、運送業などのプラットフォームを目指す！
+ * 戦後50年以上誰もなし得ていないアフリカ発の自動車メーカー確立に挑戦！
+
+#@# No.02//image[02_bm][ビジネスモデル]{
+#@# No.02//}
+//image[mobius][アフリカの道路の舗装率 (International Road Federation 2017年資料より作成 @<href>{https://www.tralac.org/images/News/Reports/Economic%20Report%20on%20Africa%202017%20UNECA.pdf})][scale=0.85]{
+//}
+
+=== アフリカの交通インフラ
+
+アフリカの自動車関税は非常に高く@<fn>{mobius_duty}、中古車でも市場価格の二倍以上の値が付くことがあります。
+それでも価格の面から中古車の需要は高いため、アフリカでは現地生産の新車市場が伸び悩んでいます@<fn>{mobius_fs}。
+このような背景からアフリカでは輸入車が多く流通しているのですが、これらは舗装された道路用に設計されています。
+しかし、アフリカの道路の舗装率は非常に低く、例えばケニアが位置する東アフリカは29.5%の道路しか舗装されていません (2017年)@<fn>{mobius_road}。
+そのため、アフリカの現存するクルマの91%が地域の道路状態に適していないと言われます。
+さらに、現地の中古車ディーラーはメーカーとのコネクションを持っていません。
+オフロードでクルマが故障しやすいにも関わらず、専門家による修理を受けれないという状況です。
+
+つまり、現地のニーズと輸入されるクルマがマッチしていないという問題が見てとれます。
+アフリカの消費者にとって輸入車は、高すぎて、かつ信頼性に乏しいのです。
+
+=== アフリカ発の自動車メーカー
+
+モビウスは、徹底的に現地のニーズに合わせたクルマを1から開発することで、この問題の解決を目指しています。
+彼らの製品である「Mobius Ⅱ」は大衆向けの乗用車で、
+現地の「悪路での走行をしたい、クルマを買う資金力が無い、より大きな収納容量が欲しい」などの課題へターゲットを合わせています。
+
+重要な設計思想は「シンプルさ」です。
+当社はクルマを再定義して、「頑丈さ」と「低価格」を追求しています。
+大きくて頑丈な余計なフレーム構造、悪路に対応したエンジンやサスペンション、無駄な機能を廃して部品数を少なく抑える設計などです。
+シンプルさ故に頑丈で故障に強く、またサプライチェーンが短くなり低価格なクルマを実現できます。
+現在は日本円で約130万円ほどので販売しています。
+コスト効率が非常に良く、約2,200ユニットを販売すると黒字化が可能です@<fn>{mobius_ceo}。
+また、ケニアの各地にサービス拠点を置き、顧客サポート体制も構築しています。
+
+#@# 大手海外自動車メーカーや、ケニアのサプライヤとも協業を行い、シリーズBには190万ドルの資金調達に成功しました。
+#@# モビウスは、アフリカのためのクルマを生産する、非常に有望なアフリカ発の自動車スタートアップです。
+現地のニーズを第一に置いた設計を行っている点が素敵ですよね。
+ビジョンにもあるように、ただクルマを売るだけでなく、交通インフラとなりアフリカの経済成長への貢献を見据えている点も熱い。
+今後ぜひスケールして欲しいスタートアップです。
+
+//footnote[mobius_official][Mobius Motors公式: @<href>{https://mobiusmotors.com/}]
+
+//footnote[mobius_fs][Frost & Sullivan: @<href>{https://www.frost.co.jp/media/column/09032018/}]
+
+//footnote[mobius_road][International Road Federation 2017資料: @<href>{https://www.uneca.org/sites/default/files/PublicationFiles/web_en_era-2017_01.pdf}]
+
+//footnote[mobius_duty][ケニア歳入庁: @<href>{https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/car-import-duty}]
+
+//footnote[mobius_ceo][CEO, Joel Jacsonの講演より(2020/1/14, 日本品川区)]
 
 //embed[latex]{
 \clearpage
@@ -257,69 +329,6 @@ Sanergyは、水の必要ない簡易トイレ「Fresh Life」の設置、マネ
 //footnote[sanergy_web][Sanergr: @<href>{http://www.sanergy.com/}]
 
 //footnote[sanergy_feed][乾燥させた幼虫。人間が食べても問題なく、ｺｰﾝﾌﾚｰｸに似た風味と食感で意外と美味しかったです…]
-
-//embed[latex]{
-\clearpage
-//}
-
-#@# No.02
-== MOBIUS MOTORS「Made in Africaのクルマ」
-
-MOBIUS MOTORS@<fn>{mobius_official}は、アフリカでクルマの開発を行うケニアのスタートアップです。
-現地の消費者のニーズに合わせたクルマを現地で1から設計し、生産/販売まで行っています。
-広大な土地を持つアフリカ経済の中で、アフリカの大衆車になることを目指してビジネスを進めています。
-
-ビジョンは「モビリティでアフリカの経済成長を加速させる」@<fn>{mobius_vision}。
-
-//footnote[mobius_vision][原文 "Boosting economic growth in Africa via mobility" を筆者が意訳]
-
-=== ひとことで言うと？
-
-アプリカのためのクルマを、アフリカで設計し、アフリカで生産しています。
-
-=== ここが熱い！
-
- * 現地のニーズに完全に最適化した設計！
- * モビリティを製造するだけでなく、運送業などのプラットフォームを目指す！
- * 戦後50年以上、誰もなし得ていないアフリカの工業化に挑戦！
-
-#@# No.02//image[02_bm][ビジネスモデル]{
-#@# No.02//}
-//image[mobius][アフリカの道路の舗装率 International Road Federation資料より作成 @<href>{https://www.tralac.org/images/News/Reports/Economic%20Report%20on%20Africa%202017%20UNECA.pdf}][scale=0.8]{
-//}
-
-=== アフリカの交通インフラ
-
-アフリカの道路の舗装率は非常に低く、ケニアが位置する東アフリカは18.3%の道路しか舗装されていません (2017年)@<fn>{mobius_road}。
-また、アフリカの自動車関税は非常に高く@<fn>{mobius_duty}、中古車でも市場価格の二倍以上の値が付くことがあります。
-舗装された道路用の輸入車は、アフリカの未舗装の道路に適しません。91%のクルマが地域の状態に適していないと言われます。
-さらに、現地の中古車ディーラーはメーカーとのコネクションを持っておらず、荒れた路面でクルマが故障しても、専門家による修理を受けれないことが多いという状況です@<fn>{mobius_ceo}。
-
-つまり、現地のニーズと輸入されるクルマがマッチしていないという問題があります。消費者にとって輸入車は、高すぎて、かつ信頼性に乏しいのです。
-
-=== Mobius Ⅱ
-
-MOBIUS MOTORSは、徹底的に現地のニーズに合わせたクルマを1から開発することで、その問題を解決しています。
-彼らの製品である「Mobius Ⅱ」は現地の課題である、「悪路での走行、少数コミュニティでクルマを買えない、収納容量が少ない」などにターゲットを合わせています。
-
-重要な設計思想は「シンプルさ」です。
-クルマを再定義して、「頑丈さ」と「低価格」を追求しています。
-大きくて頑丈な余計なフレーム構造、悪路に対応したエンジンやサスペンション、無駄な機能を廃して部品数を少なく抑える設計などです。
-シンプルさ故に頑丈で故障に強く、またサプライチェーンが短くなり低価格なクルマを実現できます。
-日本円で約130万円ほどので販売しているとのことです。コスト効率が非常に良く、約2,200ユニットを販売すると黒字化が可能です。
-また、ケニアの各地にサービス拠点を置き、顧客サポート体制も構築しています。
-
-大手海外自動車メーカーや、ケニアのサプライヤとも協業を行い、シリーズBには190万ドルの資金調達に成功しました。
-
-MOBIUS MOTERSは、アフリカのためのクルマを生産する、非常に有望なアフリカ発の自動車スタートアップです。
-
-//footnote[mobius_official][Mobius Motors: @<href>{https://mobiusmotors.com/}]
-
-//footnote[mobius_road][International Road Federation: @<href>{https://www.uneca.org/sites/default/files/PublicationFiles/web_en_era-2017_01.pdf}]
-
-//footnote[mobius_duty][ケニア歳入庁: @<href>{https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/car-import-duty}]
-
-//footnote[mobius_ceo][CEO, Joel Jacsonの講演より(2020/1/14, 日本品川区)]
 
 //embed[latex]{
 \clearpage
