@@ -523,8 +523,6 @@ Solarpakは、ソーラーパネルと充電機能が搭載されたリュック
 このように、Qelasyは事業全体として子どもたちの教育環境改善のビジネスを行い、国の教育水準を底上げことを目指しています。
 「充分な教育を受けれないために貧困層から抜け出せない」という負のループを断ち切るきっかけとなることに期待します。
 
-
-
 //footnote[qelasy_obs][Observers Africa24: https://observers.france24.com/en/20160909-solar-backpacks-kids-homework-ivory-coast]
 
 //footnote[qelasy_afro][AfroTech Newz: @<href>{https://www.afrotechnewz.com/solar-bags-ivory-coast/}]
@@ -539,7 +537,6 @@ Solarpakは、ソーラーパネルと充電機能が搭載されたリュック
 \clearpage
 //}
 
-#@# No.7
 == SWVL「バスのライドシェアによる交通インフラ」
 
 SWVL（スエフル）@<fn>{swvl_official}は、ライドシェア型のマッチングアプリを運営するエジプトのスタートアップです。
@@ -547,8 +544,6 @@ SWVL（スエフル）@<fn>{swvl_official}は、ライドシェア型のマッ�
 現地の需要を掴み、2017年4月の創業から急速に成長し事業を拡大しています。
 
 コンセプトは「エジプトの公共交通機関を再発明します」@<fn>{swvl_vision}。
-
-//footnote[swvl_vision][原文 "Re-inventing Public Transportation in Egypt" を筆者が意訳]
 
 === ひとことで言うと？
 
@@ -560,18 +555,19 @@ SWVL（スエフル）@<fn>{swvl_official}は、ライドシェア型のマッ�
  * ユーザーのニーズに合わせてルートを常に最適化！
  * 創業から約2年で4,2000万米ドルのシリーズC資金調達をおこなう成長速度！@<fn>{swvl_sem10x}
 
-//image[swvl][SWVLバス 出典：https://www.cairo360.com/article/city-life/going-alone-or-with-friends-swvl-has-your-afcon-2019-transportation-covered/]{
+#@#//image[swvl][SWVLバス 出典：https://www.cairo360.com/article/city-life/going-alone-or-with-friends-swvl-has-your-afcon-2019-transportation-covered/]{
+//image[swvl][SWVLのサービスの仕組み]{
 //}
 
 === カイロの交通問題
 
-Elvesでも言及しましたが、エジプトの首都カイロは過度な人口密集により多くの社会問題を抱えています。
+先に紹介したElvesでも紹介しましたが、エジプトの首都カイロは過度な人口密集により多くの社会問題を抱えています。
 特に交通の問題は深刻で、その混雑具合やルール無視の無秩序さから「1日中ラッシュアワーが続く」とも揶揄されています@<fn>{swvl_cairo}。
 また、混雑に加え公共交通機関の信頼性の低さも問題です。
-都市バスは時刻表にどこからもアクセスできないため、適切なバスに乗ることが非常に困難です。
-個人所有のマイクロバスは固定のルートが無いため、常にドライバーに目的地を確認する必要があります。
-タクシーのドライバーはよく嘘を付くため、気を抜くことができません@<fn>{swvl_trans}。
-このような環境であるため、路上の公共交通機関を使って通勤・通学を行うのは非常にストレスがたまります。
+都市バスの時刻表にどこからもアクセスできないため、適切なバスに乗ることが非常に困難です。
+個人所有の乗り合いマイクロバスは固定のルートが無いため、常にドライバーの行き先に眼を光らせる必要があります。
+さらにタクシーのドライバーは平気で嘘を付くため気を抜くことができません@<fn>{swvl_trans}。
+このような環境なので、路上の公共交通機関を使っての通勤・通学は非常にストレスを伴います。
 
 SWVLはバスのライドシェア予約サービスにより、この問題の解決に挑みます。
 
@@ -593,7 +589,9 @@ SWVL自体はバスを保有していないため、SWVLはパートナーの民
 交通機関が麻痺した都市において、SWVLは公共交通インフラの代替となることが既に実証されているため、他の都市へのさらなる展開が大いに期待されます。
 創業者が「ユニコーンを目指す」と話すように、今後のSWVLの事業拡大に目が話せません。
 
-//footnote[swvl_official][SWVL: https://swvl.com/]
+//footnote[swvl_official][SWVL公式: https://swvl.com/]
+
+//footnote[swvl_vision][原文 "Re-inventing Public Transportation in Egypt" を筆者が意訳]
 
 //footnote[swvl_sem10x][SEM10x: https://www.sme10x.com/whats-the-deal/watch-out-uber-and-careem-swvl-in-growing-fast]
 
