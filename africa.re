@@ -147,7 +147,7 @@ GPS位置情報により、急病人/救急車/医療施設をマッチングす
  * 400車以上の救急車をつなぐビジネスとしての社会インフラを構築！
  * 119番システムを持たないサハラ以南の多くの都市へ展開が可能！
 
-//image[capsule][緊急医療サービスRescureの仕組み]{
+//image[capsule][Rescureのサービスの仕組み]{
 //}
 
 === アフリカの119番
@@ -357,7 +357,7 @@ Sanergy@<fn>{sanergy_official}は、スラムの衛生課題に真正面から�
  * 衛生サービスをパッケージ化しフランチャイズ展開が可能なビジネスモデル！
  * 排泄物から生産される有機肥料により、作物の収穫量を30%増加！
 
-//image[sanergy][Sanergyの仕組み]{
+//image[sanergy][Sanergyのサービスの仕組み]{
 //}
 
 === 急速に発展する都市とスラム
@@ -426,7 +426,7 @@ Casky (キャスキー) @<fn>{casky_official}は、IoTデバイスによりバ�
  * インセンティブ設計による交通事故撲滅を目指す！
  * 取得する情報を使ったビジネスへの応用の幅が広い！
 
-//image[casky][Caskyの仕組み]{
+//image[casky][Caskyのサービスの仕組み]{
 //}
 
 === モロッコの首都マラケシュ
@@ -474,10 +474,11 @@ Caskyが面白いのは、ドライバーへの金銭的なインセンティブ
 \clearpage
 //}
 
-#@# No.10
 == Qelasy「電気の無い地域に教育の機会を提供」
 
 Qelasy（ケラシー）@<fn>{qelasy_official}は、教育の電力化や電気インフラ未整備地域の教育機会の創出に組むコートジボワールのスタートアップです。
+紙の本へアクセスが難しい子供たち向けにコンテンツ内蔵型のタブレットを開発したり、
+電気が使えない地域のためにソーラーパネル付きのリュックの開発を行っています。
 
 === ひとことで言うと？
 
@@ -489,12 +490,12 @@ Qelasy（ケラシー）@<fn>{qelasy_official}は、教育の電力化や電気�
  * 9,000万人以上の非電力化地域のアフリカの子供へ学習機会の適用を目指す！
  * 「あしながおじさん」を募るアプリも運営！
 
-//image[qelasy][出典：https://thisisafrica.me/africans-rising/solarpak-school-bags-cote-divoires-education/]{
+//image[qelasy][Solarpack (出典：https://thisisafrica.me/africans-rising/solarpak-school-bags-cote-divoires-education/)]{
 //}
 
 === アフリカの非電力化地域
 
-アフリカでは電力インフラが未整備の地域が多く、安定してに電力にアクセスできるのは農村人口のわずか28％に留まります。
+アフリカでは電力インフラが未整備の地域が多く、安定して電力にアクセスできるのは農村人口のわずか28％に留まります。
 これは、4億人以上のアフリカ人が、電力網にアクセスできない地域に住んでいることを意味します。
 また、サハラ砂漠以南の地域において、学校が始まる9月には、午後18時ごろには日が暮れ完全な暗闇となります。
 つまり、電力網が整備されていない地域の子どもたち9,000万人は、放課後に1時間程度しか光の下で勉強する時間が残されていないのです@<fn>{qelasy_obs}。
@@ -502,35 +503,35 @@ Qelasy（ケラシー）@<fn>{qelasy_official}は、教育の電力化や電気�
 
 この不公平な現実を変えるべく、Qelasyは次のプロダクトを開発しました。
 
-=== Solarpak
+=== ソーラーパネル付きリュック
 
 Solarpakは、ソーラーパネルと充電機能が搭載されたリュックサック型のプロダクトです。
 内臓バッテリーは30分で完全充電され、付属のUSB給電LEDランプへ4~5時間の給電が可能です@<fn>{qelasy_afro}。
-非電力化地域の多くの生徒は、太陽の下数キロの距離を歩いて学校へ向かうため、通学中に充電ができる構造になっています。
-また、リュック型の構造は、別の問題も同時に解決します。
-貧しい地域の生徒は、教科書をビニール袋などに入れて運んでいる点です@<fn>{qelasy_this}。
+非電力化地域の多くの生徒は、太陽の下数キロの距離を歩いて学校へ向かうため、通学中に充電ができる構造になっています（図1.8）。
+また、リュック型の構造は、貧しい地域の生徒が教科書をビニール袋などに入れて運んでいるという問題も解決します@<fn>{qelasy_this}。
 そのため、Solarpakを使うと、子どもたちは快適に通学ができ、さらに帰宅後、家の手伝いをして日が落ちた後でも、取り外し可能なLEDによりいつでも勉強ができるようになるのです。
-
 バッグの価格は23米ドルと、非常に安価に設定されています。
 しかし、それでも購入できない貧困層のため、Qelasyは別のソリューションも提供しています。
 それは、Solarpakが必要な生徒と「あしながおじさん」をつなぐモバイルAppです。
-アプリ上で、支援者は購入したバッグを生徒に贈ることができ、その生徒の学生成績などのフィードバックを受け取ることができます@<fn>{qelasy_official}。
+アプリ上で、支援者は購入したバッグを生徒に贈ることができ、その生徒の学生成績などのフィードバックを受け取ることができます。
 
 #@# 現在、Qelasyの創業者は、コートジボワールの首都アビジャンへの組立工場の設立のため資金調達先を探しています。
 #@# また、バッグやパネルはアジアから輸入していますが、雇用創出のためそれらの国内生産化も目指しています@<fn>{qelasy_str}。
 
 また、Qelasyは別のプロダクトとして、教科書や動画などの教育用コンテンツを内蔵したタブレットの販売も行っています。
-これは、本へのアクセスが難しい環境にある子供たちが、タブレットを通して様々な教育コンテンツに触れることができるようになり、
-国の教育水準を底上げことを可能とします。
-このように、Qelasyは事業全体として子どもたちの教育環境改善のビジネスを行っている、素晴らしいスタートアップです。
+これにより、本へのアクセスが難しい環境の子供たちが、タブレットを通して様々な教育コンテンツに触れることが可能となります。
+このように、Qelasyは事業全体として子どもたちの教育環境改善のビジネスを行い、国の教育水準を底上げことを目指しています。
+「充分な教育を受けれないために貧困層から抜け出せない」という負のループを断ち切るきっかけとなることに期待します。
 
-//footnote[qelasy_obs][Observers Africa24: @<href>{https://observers.france24.com/en/20160909-solar-backpacks-kids-homework-ivory-coast}]
+
+
+//footnote[qelasy_obs][Observers Africa24: https://observers.france24.com/en/20160909-solar-backpacks-kids-homework-ivory-coast]
 
 //footnote[qelasy_afro][AfroTech Newz: @<href>{https://www.afrotechnewz.com/solar-bags-ivory-coast/}]
 
-//footnote[qelasy_this][Thisisafrica: @<href>{https://thisisafrica.me/africans-rising/solarpak-school-bags-cote-divoires-education/}]
+//footnote[qelasy_this][Thisisafrica: https://thisisafrica.me/africans-rising/solarpak-school-bags-cote-divoires-education/]
 
-//footnote[qelasy_official][Solarpak: @<href>{https://solarpak.dk/}]
+//footnote[qelasy_official][Solarpak公式: @<href>{https://solarpak.dk/}]
 
 #@# //footnote[qelasy_str][Straits times: @<href>{https://www.straitstimes.com/world/light-to-study-by-at-night-thanks-to-a-school-bag}]
 
