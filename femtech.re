@@ -371,14 +371,13 @@ Bloomlifeは世界の悲劇を減らしうる可能性を秘めたプロダク�
 \clearpage
 //}
 
-#@# == No.16
 == Lora Dicarlo「女性が作る女性のためのセックストイ」
 
 Lora Dicarlo (ローラ・ディカロル、以下LD) @<fn>{ld_official}は、女性主体のエンジニアチームが女性のためのセックストイを開発しているアメリカのスタートアップです。
 非常に話題性の大きな企業で、FemtechやSextechの枠を超えて世界へ大きな影響を与えています。
 技術力に裏打ちされたプロダクトも非常に魅力的で、広くユーザーに支持されています。
 
-ミッションは「全ての性のありかたと性的関心が、革新的で思慮深いツールにより喜びへ至ることのできる、性的に公平な世界を創造すること」@<fn>{ld_vision}。
+ミッションは「全ての性のありかたと性的関心が、革新的で思慮深いツールにより喜びへ至ることのできる、性的に公平な世界を創造します」@<fn>{ld_vision}。
 
 === 一言でいうと？
 
@@ -390,44 +389,44 @@ Lora Dicarlo (ローラ・ディカロル、以下LD) @<fn>{ld_official}は、�
  * 話題性だけでなく、技術力に裏打ちされたプロダクトの完成度！
  * ローンチから36時間で150万ドル (1ドル100円で約1億5,000万円) の売上！
 
-//footnote[ld_vision][原文 "To create a sexually equitable world where all genders and sexualities are met with innovative and thoughtful tools to serve on their path to pleasure." を筆者が意訳]
-
-//image[ld][Osé 出典：https://loradicarlo.com/]{
+//image[ld][Osé (出典：https://loradicarlo.com/)]{
 //}
 
 === 人間の動きを再現したセックストイ
 
-セックストイと聞くと振動する棒を思い浮かべますが、Oséはパートナーの動きを人間工学的に精密に再現しています。
-マイクロボット技術により、クリトリスとGスポットを指、唇、唇のような人間的なタッチで刺激し混合オーガズムという状態へ導きます。
+セックストイと聞くと振動する棒を思い浮かべますが、Osé（図2.7）はパートナーの動きを人間工学的に精密に再現しています。
+マイクロボット技術により、クリトリスとGスポットを指や唇のような人間的なタッチで刺激し混合オーガズムという状態へ導きます。
 Oséはロボット工学、生体模倣技術、エンジニアリングデザインなど8つの特許を出願中です。
 話題性に加え、プロダクトの完成度の高さから、ローンチ後36時間で150万ドルを売り上げ、2020年1月7日時点で300万ドルへ達しています。
 
 === 話題性と与えた影響
 
-2017年創業のLDは彼女らのプロダクトであるセックストイ「Osé」を、2019年1月にラスベガスで開かれた世界最大級の展示イベントCESへ出展しました。
+2017年創業のLDは彼女らのプロダクトであるセックストイOséを、2019年1月にラスベガスで開かれた世界最大級の展示イベントCESへ出展し、
 その技術力や革新性からCES2019イノベーションアワードを受賞しました。
-しかし1ヶ月後、CESを運営する米民生技術協会 (CTA) がこの賞を取り消し、かつ今後OséのCESへの出展を禁止しました。
-取り消し発表の際、CTAはOséを「非道徳的」で「わいせつ」など形容しましたが、同イベントのARポルノ技術の展示@<fn>{ld_android}は黙認されています。
+しかしその1ヶ月後、CESを運営する米民生技術協会 (CTA) がこの賞を取り消し、かつ今後OséのCESへの出展を禁止しました。
+取り消し発表の際、CTAはOséを「非道徳的」で「わいせつ」であるなどと表現しましたが、一方で同イベントのARポルノ技術の展示@<fn>{ld_android}は黙認されています。
 これに対し、創業者は公開書簡@<fn>{ld_press}やワシントン・ポスト@<fn>{ld_wp}などで声明を出し、テクノロジー界隈における女性差別について批判しています。
-特にCESをに関しては、同じ「性的ウェルネス」において、男性向けのセックスロボットやVRは許容され、女性向けセックストイを排除するダブルスタンダードを指摘しています。
+特にCESに関しては、同じ「性的ウェルネス」において、男性向けのセックスロボットやVRは許容され、女性向けセックストイを排除するダブルスタンダードを指摘しています。
 これを受け、同年5月にCESは謝罪と共に再び賞を授与し、さらにCESのポリシーの変更を行い「すべての参加者にとってより安全で包括的な環境」が作成されるに至りました@<fn>{ld_press2}。
 
 この一連の騒動は、主要メディアを含む多くの媒体で取り上げられ、広い議論を引き起こしました。
-LDへは応援のメッセージが数万件届いたといいます。
-テクノロジー業界のジェンダーバイアスだけでなく、女性の性的快楽の追求というタブーに対する議論を起こしたことは非常に価値があると思います。
-また、同社は性の多様性に関しても実現しており、女性、男性、非バイナリ、Gender Non-conforming、LGBTQ+でチームが組まれています。
+LDはこの件に関する応援メッセージが数万件届いたと述べています。
+テクノロジー業界のジェンダーバイアスだけでなく、女性の性的快楽の追求というタブーに対する議論を起こしたことは非常に価値があると筆者は思います。
+また、同社は性の多様性の許容に関しても実現しており、女性、男性、非バイナリ、Gender Non-conforming、LGBTQ+でチームが組まれています。
 その後創業者は、SXSWなどのイベントでの基調講演や、その他ShowStoppersイノベーション賞などの受賞により、更に存在感を高めています。
-今後さらに影響力が高まると予想され、目が話せない企業です。
+今後さらに影響力が高まると予想され、様々な面で目が離せない企業です。
 
 #@# 2020年のCESでは、新しいデバイス2つがそれぞれイノベーションアワードを受賞し、CESでの受賞は計3つとなります。
 
-//footnote[ld_official][Lora Dicarlo: @<href>{https://loradicarlo.com/}]
+//footnote[ld_official][Lora Dicarlo公式: @<href>{https://loradicarlo.com/}]
+
+//footnote[ld_vision][原文 "To create a sexually equitable world where all genders and sexualities are met with innovative and thoughtful tools to serve on their path to pleasure." を筆者が意訳]
 
 //footnote[ld_android][Android Authority: @<href>{https://www.androidauthority.com/naughty-america-ar-porn-941344/}]
 
 //footnote[ld_press][CESへの公開書簡: @<href>{https://loradicarlo.com/blog/open-letter-to-ces/}]
 
-//footnote[ld_wp][Washington Post: @<href>{https://www.washingtonpost.com/outlook/2019/01/17/our-robotic-pleasure-tech-won-big-award-then-they-took-it-away/}]
+//footnote[ld_wp][Washington Post: https://www.washingtonpost.com/outlook/2019/01/17/our-robotic-pleasure-tech-won-big-award-then-they-took-it-away/]
 
 //footnote[ld_press2][Lora Dicarlo Press: @<href>{https://loradicarlo.com/blog/ces/}]
 
