@@ -434,15 +434,14 @@ LDはこの件に関する応援メッセージが数万件届いたと述べて
 \clearpage
 //}
 
-#@# No.17
 == Kegg「妊娠可能期間を検出するウェアラブルデバイス」
 
 kegg（ケッグ）@<fn>{kegg_official}は、女性の排卵日や妊娠可能期間をトラッキングするウェアラブルデバイスです。
 アメリカのスタートアップLady Technologiesにより開発されています。
 形状や使い方は前述のElvie Trainerに近いですが、世界初のセンシング技術を持ったデバイスです。
-クラウドファンディングで資金調達後に開発しており、今年の4月ごろ製品の発送が行われるようです。
+クラウドファンディングでの資金調達後に開発しており、今年2020年の4月ごろ製品の発送が行われるようです。
 
-メッセージは「あなたが知る必要がある情報と行動するために必要なリソースを提供する健康とウェルネスのガイドです」@<fn>{kegg_vision}。
+当社いわく「あなたが知る必要がある情報と行動するために必要なリソースを提供する健康とウェルネスのガイドです」@<fn>{kegg_vision}。
 
 === 一言でいうと？
 
@@ -451,11 +450,9 @@ kegg（ケッグ）@<fn>{kegg_official}は、女性の排卵日や妊娠可能�
 === ここが熱い！
 
  * 類似プロダクトと異なり子宮頸管粘液の状態に着目したのは世界初！
- * 通常はケーゲル体操のデバイスとして使用可能！
+ * 通常時はケーゲル体操のサポートデバイスとして使用可能！
 
-//footnote[kegg_vision][原文 "kegg is the health and wellness guide that gives you the information you need to know and the resources you need to act." を筆者が意訳]
-
-//image[kegg][Keggプロダクト 出典：https://kegg.tech/]{
+//image[kegg][Kegg (出典：https://kegg.tech/)]{
 //}
 
 === 女性の生理周期と排卵日
@@ -470,7 +467,7 @@ kegg（ケッグ）@<fn>{kegg_official}は、女性の排卵日や妊娠可能�
 生理とは、着床が成立しなかった子宮内膜を排出する生理現象であり、この際ホルモンの影響で基礎体温が低下します。
 卵子のもととなる原始卵胞が成熟し、成熟卵胞から卵胞ホルモンが分泌され子宮内膜が厚くなり始めるのが生理から1週間後ごろです。
 そして、生理から約2週間後に排卵が起こります。
-排卵日の前後に基礎体温がさらに下がるタイミングがあり、そこから数日後に基礎体温が上昇してこの状態は次の生理まで続きます。
+排卵日の前後に基礎体温がさらに下がるタイミングがあり、そこからは基礎体温が上昇してこの状態は次の生理まで続きます。
 つまり、生理開始から排卵日までの基礎体温が低い期間と、排卵日から生理初日までの基礎体温の高い期間が繰り返し訪れます@<fn>{kegg_jaog}。
 毎朝の基礎体温の測定が重要なのは、このサイクルの予測に有効なためです。
 しかし、このサイクルは女性の体調などにより前後する可能性があります。
@@ -481,19 +478,22 @@ kegg（ケッグ）@<fn>{kegg_official}は、女性の排卵日や妊娠可能�
 頸管粘液は子宮頸管 (子宮の入り口) から分泌され、精子の運動や通りやすさに関係します。
 排卵日が近づくにつれ、頸管粘液の分泌量や水分含有量が増加し、抵抗率も高くなります。
 Keggは小さなパルスを発するアクティブセンサによる流体センシング技術により、インピーダンスを用いて粘液の状態を計測するデバイスです。
-これにより、最速で7日前に妊娠可能期間と排卵日を計測可能であるようです@<fn>{kegg_official}。
-不妊治療として超音波による子宮頸管粘液が存在しますが、これを家庭で簡単に行えるようにする点でKeggは世界初のデバイスとなります。
-正確な妊娠可能期間を把握することで、妊娠の可能性が4倍となります@<fn>{kegg_ind}。
+これにより、最速で7日前に妊娠可能期間と排卵日の計測が可能となります。
+不妊治療として超音波による子宮頸管粘液検査が存在しますが、これを家庭で簡単に行えるようにする点でKeggは世界初のデバイスです。
+正確な妊娠可能期間の把握は、妊娠の可能性を4倍まで高めます@<fn>{kegg_ind}。
 現在Keggはプロトタイプレベルの製品で、クラウドファンディング以外での販売は行われていません。
-子宮頸管粘液による推定自体は確立された技術のようなので、今後さらに研究が進み、Keggが家庭で行える不妊治療の選択肢の1つとなることを期待します。
+しかし、子宮頸管粘液による推定自体は確立された技術です。
+今後さらに研究が進み、Keggが家庭で行える不妊治療の選択肢の1つとなる日は遠くないでしょう。
+
+//footnote[kegg_official][Kegg公式: @<href>{https://kegg.tech/}]
+
+//footnote[kegg_vision][原文 "kegg is the health and wellness guide that gives you the information you need to know and the resources you need to act." を筆者が意訳]
 
 //footnote[kegg_jsrm][日本生殖医学会: @<href>{http://www.jsrm.or.jp/public/funinsho_qa01.html}]
 
 //footnote[kegg_jaog][日本産婦人科医会: @<href>{https://www.jaog.or.jp/qa/youth/}]
 
-//footnote[kegg_official][Kegg: @<href>{https://kegg.tech/}]
-
-//footnote[kegg_ind][Indiegogo: @<href>{https://www.indiegogo.com/projects/kegg-first-intuitive-2-in-1-fertility-tracker}]
+//footnote[kegg_ind][Indiegogo: https://www.indiegogo.com/projects/kegg-first-intuitive-2-in-1-fertility-tracker]
 
 //embed[latex]{
 \clearpage
