@@ -259,7 +259,7 @@ MOBIUS MOTORS@<fn>{mobius_official}は、アフリカでクルマの開発を行
 
 //footnote[mobius_duty][ケニア歳入庁: @<href>{https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/car-import-duty}]
 
-//footnote[mobius_ceo][CEO, Joel Jacsonの講演より(2020/1/14, 日本品川区)]
+//footnote[mobius_ceo][CEO, Joel Jacson氏の講演より(2020/1/14, 日本東京都)]
 
 //embed[latex]{
 \clearpage
