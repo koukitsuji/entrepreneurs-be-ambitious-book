@@ -381,7 +381,6 @@ VACANは最終的に、メディアに変わることを戦略としています
 \clearpage
 //}
 
-#@# No.25
 == セーフィー「防犯カメラのクラウドプラットフォーム」
 　
 セーフィー@<fn>{safie_official}は、防犯カメラとクラウドをつないで包括的なサービスを提供するスタートアップです。
@@ -400,7 +399,7 @@ VACANは最終的に、メディアに変わることを戦略としています
  * 低価格の本体＋サブスクで、モニタリング環境を簡単に導入可能！
  * 防犯カメラを起点に「AI×映像データ」の情報プロバイダへ！
 
-//image[800][セーフィーのサービスの仕組み]{
+//image[sf][セーフィーのサービスの仕組み]{
 //}
 
 === 4年で防犯カメラ市場のシェアNo.1へ
@@ -433,11 +432,11 @@ GoogleやFacebookなどはネット上の情報をおさえることで覇権を
 モビリティや都市開発へ応用が可能となれば、安全が向上するだけでなく、我々の生活がさらに便利になることが期待できます。
 今後のセーフィーのビジネス展開に注目です。
 
-//footnote[safie_official][セーフィー：@<href>{https://safie.link/}]
+//footnote[safie_official][セーフィー公式：@<href>{https://safie.link/}]
 
 //footnote[safie_insecam][Insecam：@<href>{https://www.insecam.org/en/bycountry/JP/}]
 
-//footnote[safie_sp][2019年12月 CEO講演より]
+//footnote[safie_sp][2019年12月, CEO講演より]
 
 //embed[latex]{
 \clearpage
