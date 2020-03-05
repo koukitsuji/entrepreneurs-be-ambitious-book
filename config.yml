@@ -23,12 +23,12 @@ language: ja
 # 書名
 # 読みを入れる例 booktitle: {name: "Re:VIEW EPUBサンプル", file-as: "リビューイーパブサンプル"}
 # booktitle: Re:VIEWサンプル書籍
-booktitle: Entrepreneurs, be ambitious.
+booktitle: Entrepreneurs, be ambitious. テクノロジーで世界を変えるスタートアップ30選
 
 # 著者名。「, 」で区切って複数指定できる
 # 読みを入れる例 aut: [{name: "青木峰郎", file-as: "アオキミネロウ"}, {name: "武藤健志", file-as: "ムトウケンシ"}, {name: "高橋征義", file-as: "タカハシマサヨシ"}, {name: "角征典", file-as: "カドマサノリ"}]
 # aut: ["青木峰郎", "武藤健志", "高橋征義", "角征典"]
-aut: ["辻幸喜 / @kouki_tsuji (twitter)"]
+aut: ["辻幸喜 / @kouki_tsuji (Twitter)"]
 
 # 以下はオプション
 # 以下はオプション(autと同じように配列書式で複数指定可能)。
@@ -49,7 +49,7 @@ aut: ["辻幸喜 / @kouki_tsuji (twitter)"]
 # a-cmm, cmm: 解釈・分析・考察者
 # a-csl, csl: 監修者
 # a-dsr, dsr: デザイナ
-dsr: デザイナーさん / @XXX (Instagram)
+dsr: ヤマグチナナコ / @nnk0107 (Instagram)
 # a-edt, edt: 編集者
 # a-ill, ill: イラストレータ
 # a-lyr, lyr: 歌詞作成者
@@ -79,7 +79,7 @@ date: 2020-03-01
 history: [["2020-03-01"]]
 # 権利表記(配列で複数指定可)
 # rights: (C) 2016-2019 Re:VIEW Developers
-rights: (C) 2020 辻幸喜 / @kouki_tsuji (twitter)
+rights: (C) 2020 辻幸喜 / @kouki_tsuji (Twitter)
 # description: 説明
 # subject: 短い説明用タグ(配列で複数指定可)
 # type: 書籍のカテゴリーなど(配列で複数指定可)
