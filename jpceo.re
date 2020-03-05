@@ -566,10 +566,9 @@ FiNCでは、歩数などの運動目標を達成したり、継続ログイン�
 \clearpage
 //}
 
-#@# == No.30
 == ALI Technologies「空を飛ぶホバーバイク」
 
-A.L.I. Technologiesは@<fn>{ali_official}は、ドローンや分散コンピューティング関連の事業を手掛けるスタートアップです。
+A.L.I. Technologies@<fn>{ali_official}は、ドローンや分散コンピューティング関連の事業を手掛けるスタートアップです。
 エアーモビリティ事業や、クラウドレンダリングサービス事業、ドローン事業を手掛けています。
 日本で初めて、空飛ぶバイクの一般販売開始を発表しています。
 
@@ -583,34 +582,52 @@ A.L.I. Technologiesは@<fn>{ali_official}は、ドローンや分散コンピュ
 
  * 日本で初めて空飛ぶバイクの一般販売を予定！
  * レンダリングサービスなど時代の流れを読んだビジネス展開！
- * 災害対応やレジャーなど幅広い応用！
+ * エアーモビリティは災害対応やレジャーなど幅広い応用！
 
-//image[800][ALI Technologyのサービスの仕組み]{
+//image[ali][ALI Technologyの事業を支える3つのサービス]{
 //}
 
-=== エアーモビリティ
+=== エアーモビリティによる人の移動
 
-ALIは、ドローンを大型化しバイクのような形状にしたプロダクトを開発しています。
+ALIは3つのサービスを展開していますが、その中で最も面白いのはやはりエアーモビリティ事業でしょう。
+バイクのタイヤの代わりに、下向きの巨大なプロペラを装着し、空中に浮遊しながら走行が可能なプロダクトです。
 モビリティの新しい形として、地上や水上から数十センチ浮遊して低空飛行エアーモビリティは、ALIの他にも、アメリカのAerofexやロシアのHoversurfが開発中です。
-ALIのバイクは、地上30cm程度浮遊し、最高速度は120km/hで走行可能です@<fn>{ali_yto}。
-人間が搭乗した状態での一般公開は済ませており@<fn>{ali_yt}、2020年ごろには海外で限定的な発売を予定しています。
+ALIのバイクは、地上から30cm程度浮遊し、最高速度は120km/hで走行可能です@<fn>{ali_yto}。
+人間が搭乗した状態での一般公開は既に済ませており@<fn>{ali_yt}、2020年ごろには海外で限定的な発売を予定しています。
 日本では、2022年に公道ナンバーを取得し量産化を目指しています@<fn>{ali_pj}。
-日本の公道でホバーバイクに乗るためには制度の整備が必要で、経済産業省と国土交通省が「空の移動革命に向けた官民協議会」を設立し議論を進めています@<fn>{ali_me}。
-この組織の提示するロードマップによると、2023年を目標に空飛ぶクルマ関連の事業をスタートし、2030年代から実用の拡大を行う予定です@<fn>{ali_ro}。
+というのも、日本の公道でホバーバイクに乗るためには制度の整備が必要だからです。
+現在、経済産業省と国土交通省が主導で「空の移動革命に向けた官民協議会」を設立し、民間の有識者を交えて実現に向けて議論を進めています@<fn>{ali_me}。
+この組織の提示するロードマップによると、2023年を目標に民間の空飛ぶクルマ関連の事業をスタートし、2030年代から実用の拡大を行う予定です@<fn>{ali_ro}。
+具体的には、まずモノの移動から実証実験を始め、2020年代半ばから地方での人の移動の事業が始まります。
+都市部での人の移動は、2030年ごろから導入開始が予定されています。
 国の方針として、ホバーバイクの導入に積極的なのは素晴らしい。
 この計画通りに、我々の日常にエアーモビリティが存在する未来が来てほしいですね。
 
-//footnote[ali_official][A.L.I. Technologies：@<href>{https://ali.jp/}]
+=== 演算力シェアリングによるクラウドレンダリング
 
-//footnote[ali_yto][Youtube A.L.I. Technologies：@<href>{https://www.youtube.com/watch?v=copFXkbprC8&feature=emb_title}]
+ALIは、Webブラウザベースのクラウドレンダリングサービス@<fn>{ali_brf}も展開しています。
+これは、映画やゲームなどの3DCGクリエイター向けのサービスで、
+クラウド上のGPUを搭載したサーバ群の分散処理により高速なレンダリングを提供しています。
+AR/VR関連のコンテンツの伸びもあり、高速で安価な本サービスの需要はより増していくでしょう。
 
-//footnote[ali_yt][Youtube：@<href>{https://www.youtube.com/watch?v=MrUIJ8RerW0}]
+ALIの素晴らしい点は、今後スケールすると予想される市場のインフラとなるサービスの確立を目指していることです。
+まさに良く言われる「金を掘らずにスコップを売れ」ですね。
+ALIのどの事業も魅力的なので、今後の動向に注目しましょう。
+
+//footnote[ali_official][A.L.I. Technologies公式：@<href>{https://ali.jp/}]
+
+//footnote[ali_yto][Youtube A.L.I. Technologies：@<href>{https://www.youtube.com/watch?v=copFXkbprC8}]
+
+//footnote[ali_yt][Youtube Speeder Demo：@<href>{https://www.youtube.com/watch?v=MrUIJ8RerW0}]
 
 //footnote[ali_pj][事業構想：@<href>{https://www.projectdesign.jp/201902/mobility-revolution/005957.php}]
 
 //footnote[ali_me][経済産業省 空の移動革命に向けた官民協議会：@<href>{https://www.meti.go.jp/shingikai/mono_info_service/air_mobility/index.html}]
 
 //footnote[ali_ro][空の移動革命に向けた官民協議会 ロードマップ：@<href>{https://www.meti.go.jp/shingikai/mono_info_service/air_mobility/pdf/004_01_00.pdf}]
+
+//footnote[ali_brf][Bullet Render Farm：@<href>{https://www.bulletrenderfarm.com/ja/}]
+
 
 //embed[latex]{
 \clearpage
