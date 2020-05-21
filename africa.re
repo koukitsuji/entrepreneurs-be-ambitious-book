@@ -1,3 +1,32 @@
+a
+
+//embed[latex]{
+\clearpage
+//}
+
+a
+
+//embed[latex]{
+\clearpage
+//}
+
+a
+
+//embed[latex]{
+\clearpage
+//}
+
+a
+
+//embed[latex]{
+\clearpage
+//}
+
+a
+
+//embed[latex]{
+\clearpage
+//}
 = アフリカ市場
 
 === 世界人口の推移
